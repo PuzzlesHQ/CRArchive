@@ -7,6 +7,9 @@ we have permission to upload the jar of the game
 
 ![permission image](./permission_image.png)
 
+![permission image](./permission_image_2.png)
+
+
 ## License
 
 This project is licensed under the COSMIC REACH END USER LICENSE AGREEMENT VERSION 1 License.  
