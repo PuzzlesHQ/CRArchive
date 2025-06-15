@@ -1,11 +1,11 @@
 {
     "latest": {
-        "alpha": "0.4.11-alpha",
-        "pre_alpha": "0.3.27-pre_alpha"
+        "alpha": "0.4.11",
+        "pre_alpha": "0.3.27"
     },
     "versions": [
         {
-            "id": "0.4.11-alpha",
+            "id": "0.4.11",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1750023313,
@@ -21,7 +21,7 @@
             }
         },
         {
-            "id": "0.4.10-alpha",
+            "id": "0.4.10",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1748265338,
@@ -37,7 +37,7 @@
             }
         },
         {
-            "id": "0.4.9-alpha",
+            "id": "0.4.9",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1746835200,
@@ -53,7 +53,7 @@
             }
         },
         {
-            "id": "0.4.8-alpha",
+            "id": "0.4.8",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1745712000,
@@ -69,7 +69,7 @@
             }
         },
         {
-            "id": "0.4.7-alpha",
+            "id": "0.4.7",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1745107200,
@@ -85,7 +85,7 @@
             }
         },
         {
-            "id": "0.4.6-alpha",
+            "id": "0.4.6",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1743379200,
@@ -101,7 +101,7 @@
             }
         },
         {
-            "id": "0.4.5-alpha",
+            "id": "0.4.5",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1743292800,
@@ -117,7 +117,7 @@
             }
         },
         {
-            "id": "0.4.4-alpha",
+            "id": "0.4.4",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1742083200,
@@ -133,7 +133,7 @@
             }
         },
         {
-            "id": "0.4.3-alpha",
+            "id": "0.4.3",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1741996800,
@@ -149,7 +149,7 @@
             }
         },
         {
-            "id": "0.4.2-alpha",
+            "id": "0.4.2",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1741996800,
@@ -165,7 +165,7 @@
             }
         },
         {
-            "id": "0.4.1-alpha",
+            "id": "0.4.1",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1741478400,
@@ -181,7 +181,7 @@
             }
         },
         {
-            "id": "0.4.0-alpha",
+            "id": "0.4.0",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1741392000,
@@ -197,7 +197,7 @@
             }
         },
         {
-            "id": "0.3.27-pre_alpha",
+            "id": "0.3.27",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1740268800,
@@ -213,7 +213,7 @@
             }
         },
         {
-            "id": "0.3.26-pre_alpha",
+            "id": "0.3.26",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739836800,
@@ -229,7 +229,7 @@
             }
         },
         {
-            "id": "0.3.25-pre_alpha",
+            "id": "0.3.25",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739836800,
@@ -245,7 +245,7 @@
             }
         },
         {
-            "id": "0.3.24-pre_alpha",
+            "id": "0.3.24",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739750400,
@@ -261,7 +261,7 @@
             }
         },
         {
-            "id": "0.3.23-pre_alpha",
+            "id": "0.3.23",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739232000,
@@ -277,7 +277,7 @@
             }
         },
         {
-            "id": "0.3.22-pre_alpha",
+            "id": "0.3.22",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739059200,
@@ -293,7 +293,7 @@
             }
         },
         {
-            "id": "0.3.21-pre_alpha",
+            "id": "0.3.21",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1738108800,
@@ -309,7 +309,7 @@
             }
         },
         {
-            "id": "0.3.20c-pre_alpha",
+            "id": "0.3.20c",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1737951600,
@@ -320,7 +320,7 @@
             }
         },
         {
-            "id": "0.3.20b-pre_alpha",
+            "id": "0.3.20b",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1737951600,
@@ -331,7 +331,7 @@
             }
         },
         {
-            "id": "0.3.20-pre_alpha",
+            "id": "0.3.20",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1737849600,
@@ -347,7 +347,7 @@
             }
         },
         {
-            "id": "0.3.19b-pre_alpha",
+            "id": "0.3.19b",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1737590400,
@@ -358,7 +358,7 @@
             }
         },
         {
-            "id": "0.3.19-pre_alpha",
+            "id": "0.3.19",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1737244800,
@@ -374,7 +374,7 @@
             }
         },
         {
-            "id": "0.3.18-pre_alpha",
+            "id": "0.3.18",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1737244800,
@@ -390,7 +390,7 @@
             }
         },
         {
-            "id": "0.3.17-pre_alpha",
+            "id": "0.3.17",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1737244800,
@@ -406,7 +406,7 @@
             }
         },
         {
-            "id": "0.3.16-pre_alpha",
+            "id": "0.3.16",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1736380800,
@@ -422,7 +422,7 @@
             }
         },
         {
-            "id": "0.3.15-pre_alpha",
+            "id": "0.3.15",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1736208000,
@@ -438,7 +438,7 @@
             }
         },
         {
-            "id": "0.3.14-pre_alpha",
+            "id": "0.3.14",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1735430400,
@@ -454,7 +454,7 @@
             }
         },
         {
-            "id": "0.3.13-pre_alpha",
+            "id": "0.3.13",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1735430400,
@@ -470,7 +470,7 @@
             }
         },
         {
-            "id": "0.3.12-pre_alpha",
+            "id": "0.3.12",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1734825600,
@@ -486,7 +486,7 @@
             }
         },
         {
-            "id": "0.3.11-pre_alpha",
+            "id": "0.3.11",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1733616000,
@@ -502,7 +502,7 @@
             }
         },
         {
-            "id": "0.3.10-pre_alpha",
+            "id": "0.3.10",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1733529600,
@@ -518,7 +518,7 @@
             }
         },
         {
-            "id": "0.3.9-pre_alpha",
+            "id": "0.3.9",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1733011200,
@@ -534,7 +534,7 @@
             }
         },
         {
-            "id": "0.3.8-pre_alpha",
+            "id": "0.3.8",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1733011200,
@@ -550,7 +550,7 @@
             }
         },
         {
-            "id": "0.3.7-pre_alpha",
+            "id": "0.3.7",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1731801600,
@@ -566,7 +566,7 @@
             }
         },
         {
-            "id": "0.3.6-pre_alpha",
+            "id": "0.3.6",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730592000,
@@ -582,7 +582,7 @@
             }
         },
         {
-            "id": "0.3.5-pre_alpha",
+            "id": "0.3.5",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730592000,
@@ -598,7 +598,7 @@
             }
         },
         {
-            "id": "0.3.4-pre_alpha",
+            "id": "0.3.4",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730505600,
@@ -614,7 +614,7 @@
             }
         },
         {
-            "id": "0.3.3-pre_alpha",
+            "id": "0.3.3",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730419200,
@@ -630,7 +630,7 @@
             }
         },
         {
-            "id": "0.3.2-pre_alpha",
+            "id": "0.3.2",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730419200,
@@ -646,157 +646,157 @@
             }
         },
         {
-            "id": "0.3.2-pre_alpha",
+            "id": "0.3.2-pre10",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729900800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-client-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre10-pre_alpha/cosmic-reach-client-0.3.2-pre10-pre_alpha.jar",
                 "sha256": "dc541e374cb8bc7437579ed7eddf45f59676fd4a7c1276dba237dc7a0adcf603",
                 "size": 28631361
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-server-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre10-pre_alpha/cosmic-reach-server-0.3.2-pre10-pre_alpha.jar",
                 "sha256": "4bb969c3841093e5513d24cf5c97f58ef78599af77985efdf27bd9226e2040fb",
                 "size": 13092004
             }
         },
         {
-            "id": "0.3.2-pre_alpha",
+            "id": "0.3.2-pre9",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729555200,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-client-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre9-pre_alpha/cosmic-reach-client-0.3.2-pre9-pre_alpha.jar",
                 "sha256": "a8670b9fda6d7e5384a3c34ff259c2eb5de26714d34b5798b34d1d05778db927",
                 "size": 28625194
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-server-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre9-pre_alpha/cosmic-reach-server-0.3.2-pre9-pre_alpha.jar",
                 "sha256": "30267a497126ec5f3eeb33cbcd565ed95f118d9ed90690f2e16cd844012ce85d",
                 "size": 13087105
             }
         },
         {
-            "id": "0.3.2-pre_alpha",
+            "id": "0.3.2-pre8",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729555200,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-client-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre8-pre_alpha/cosmic-reach-client-0.3.2-pre8-pre_alpha.jar",
                 "sha256": "3d1744038f5fcccb09a29ec61e38fad7b1e999d668f0a86c2e7fb6295cccadf4",
                 "size": 28623365
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-server-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre8-pre_alpha/cosmic-reach-server-0.3.2-pre8-pre_alpha.jar",
                 "sha256": "63cc875e333c213f79550655d500622944831eba4b73020004deaa0e81831345",
                 "size": 13085486
             }
         },
         {
-            "id": "0.3.2-pre_alpha",
+            "id": "0.3.2-pre7",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729468800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-client-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre7-pre_alpha/cosmic-reach-client-0.3.2-pre7-pre_alpha.jar",
                 "sha256": "abc6007aee8d84897f0b5d12617e222fae56832ff156f4a3724dbe22c3fd1038",
                 "size": 28623160
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-server-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre7-pre_alpha/cosmic-reach-server-0.3.2-pre7-pre_alpha.jar",
                 "sha256": "6497f4911cda1afe9ad27fd08d2bc9095e53a91dfe54ab60bc26396ce19a93e0",
                 "size": 13085412
             }
         },
         {
-            "id": "0.3.2-pre_alpha",
+            "id": "0.3.2-pre6",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729036800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-client-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre6-pre_alpha/cosmic-reach-client-0.3.2-pre6-pre_alpha.jar",
                 "sha256": "19c50e38590f80274ad872cb754684e41904bb18b228ed03fcc6e8697a2fc078",
                 "size": 28584764
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-server-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre6-pre_alpha/cosmic-reach-server-0.3.2-pre6-pre_alpha.jar",
                 "sha256": "1a2c1f71980d51efe663b223bb8c47458cc12331ea174bf3abeed9c4964353e4",
                 "size": 13049042
             }
         },
         {
-            "id": "0.3.2-pre_alpha",
+            "id": "0.3.2-pre5",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728345600,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-client-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre5-pre_alpha/cosmic-reach-client-0.3.2-pre5-pre_alpha.jar",
                 "sha256": "3af6993fbdd828a0b2f80ab6bf47bf71e1dbebe1e1adb79362deef62df9ee588",
                 "size": 28566498
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-server-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre5-pre_alpha/cosmic-reach-server-0.3.2-pre5-pre_alpha.jar",
                 "sha256": "eada6dd974dc48d16a90a021d5e8e714fc38e78fc15da6ff887b9fceafaaf4b7",
                 "size": 13032989
             }
         },
         {
-            "id": "0.3.2-pre_alpha",
+            "id": "0.3.2-pre4",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728259200,
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-server-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre4-pre_alpha/cosmic-reach-server-0.3.2-pre4-pre_alpha.jar",
                 "sha256": "995f6da3ef492aff8b5adeb60e92f2b75a1955b41d7bd9fac112bc85237f0964",
                 "size": 13029990
             }
         },
         {
-            "id": "0.3.2-pre_alpha",
+            "id": "0.3.2-pre3",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728259200,
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-server-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre3-pre_alpha/cosmic-reach-server-0.3.2-pre3-pre_alpha.jar",
                 "sha256": "c2d4b694ba355966dcc091f768f5ad8df4326b3ff9472745ed8dcc6257854074",
                 "size": 13029960
             }
         },
         {
-            "id": "0.3.2-pre_alpha",
+            "id": "0.3.2-pre2",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728259200,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-client-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre2-pre_alpha/cosmic-reach-client-0.3.2-pre2-pre_alpha.jar",
                 "sha256": "5c55516577024af3ef29cda3addff4e7d3cd68c60c1d2002e6a445145d391dc8",
                 "size": 28558973
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-server-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre2-pre_alpha/cosmic-reach-server-0.3.2-pre2-pre_alpha.jar",
                 "sha256": "f1df63cd2d8c25c49ed0ee83d28ee0b9c91eaa4939ff2a53e2c4b5a4cb6ebd87",
                 "size": 13030242
             }
         },
         {
-            "id": "0.3.2-pre_alpha",
+            "id": "0.3.2-pre1",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728172800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-client-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre1-pre_alpha/cosmic-reach-client-0.3.2-pre1-pre_alpha.jar",
                 "sha256": "95afe6f88410b170831f8b4ff76884a0413473464bad2f403073116d2f1ad678",
                 "size": 28537464
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-server-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre1-pre_alpha/cosmic-reach-server-0.3.2-pre1-pre_alpha.jar",
                 "sha256": "52b41debe6270d93d06eb5b6caa8c47b7d8a42dd24a4a1ae791252b73dfaaa6e",
                 "size": 13006629
             }
         },
         {
-            "id": "0.3.1-pre_alpha",
+            "id": "0.3.1",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1726358400,
@@ -807,7 +807,7 @@
             }
         },
         {
-            "id": "0.3.0-pre_alpha",
+            "id": "0.3.0",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1726358400,
@@ -818,7 +818,7 @@
             }
         },
         {
-            "id": "0.2.5-pre_alpha",
+            "id": "0.2.5",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725926400,
@@ -829,7 +829,7 @@
             }
         },
         {
-            "id": "0.2.4-pre_alpha",
+            "id": "0.2.4",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725667200,
@@ -840,7 +840,7 @@
             }
         },
         {
-            "id": "0.2.3-pre_alpha",
+            "id": "0.2.3",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725667200,
@@ -851,7 +851,7 @@
             }
         },
         {
-            "id": "0.2.2-pre_alpha",
+            "id": "0.2.2",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725667200,
@@ -862,7 +862,7 @@
             }
         },
         {
-            "id": "0.2.1-pre_alpha",
+            "id": "0.2.1",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725667200,
@@ -873,7 +873,7 @@
             }
         },
         {
-            "id": "0.2.0-pre_alpha",
+            "id": "0.2.0",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725062400,
@@ -884,7 +884,7 @@
             }
         },
         {
-            "id": "0.1.50-pre_alpha",
+            "id": "0.1.50",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1724630400,
@@ -895,7 +895,7 @@
             }
         },
         {
-            "id": "0.1.49-pre_alpha",
+            "id": "0.1.49",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1724630400,
@@ -906,7 +906,7 @@
             }
         },
         {
-            "id": "0.1.48-pre_alpha",
+            "id": "0.1.48",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1724544000,
@@ -917,7 +917,7 @@
             }
         },
         {
-            "id": "0.1.47-pre_alpha",
+            "id": "0.1.47",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1723852800,
@@ -928,7 +928,7 @@
             }
         },
         {
-            "id": "0.1.46-pre_alpha",
+            "id": "0.1.46",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1723852800,
@@ -939,7 +939,7 @@
             }
         },
         {
-            "id": "0.1.45-pre_alpha",
+            "id": "0.1.45",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1723408320,
@@ -950,7 +950,7 @@
             }
         },
         {
-            "id": "0.1.44-pre_alpha",
+            "id": "0.1.44",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1723161600,
@@ -961,7 +961,7 @@
             }
         },
         {
-            "id": "0.1.43-pre_alpha",
+            "id": "0.1.43",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1722038400,
@@ -972,7 +972,7 @@
             }
         },
         {
-            "id": "0.1.42-pre_alpha",
+            "id": "0.1.42",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1721766960,
@@ -983,7 +983,7 @@
             }
         },
         {
-            "id": "0.1.41-pre_alpha",
+            "id": "0.1.41",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1721765460,
@@ -994,7 +994,7 @@
             }
         },
         {
-            "id": "0.1.40-pre_alpha",
+            "id": "0.1.40",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1720742400,
@@ -1005,7 +1005,7 @@
             }
         },
         {
-            "id": "0.1.39-pre_alpha",
+            "id": "0.1.39",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1719878400,
@@ -1016,7 +1016,7 @@
             }
         },
         {
-            "id": "0.1.38-pre_alpha",
+            "id": "0.1.38",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1719792000,
@@ -1027,7 +1027,7 @@
             }
         },
         {
-            "id": "0.1.37-pre_alpha",
+            "id": "0.1.37",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1719014400,
@@ -1038,7 +1038,7 @@
             }
         },
         {
-            "id": "0.1.36-pre_alpha",
+            "id": "0.1.36",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1717275600,
@@ -1049,7 +1049,7 @@
             }
         },
         {
-            "id": "0.1.35-pre_alpha",
+            "id": "0.1.35",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1717275600,
@@ -1060,7 +1060,7 @@
             }
         },
         {
-            "id": "0.1.34-pre_alpha",
+            "id": "0.1.34",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1717275600,
@@ -1071,7 +1071,7 @@
             }
         },
         {
-            "id": "0.1.33-pre_alpha",
+            "id": "0.1.33",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716768000,
@@ -1082,7 +1082,7 @@
             }
         },
         {
-            "id": "0.1.32-pre_alpha",
+            "id": "0.1.32",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716768000,
@@ -1093,7 +1093,7 @@
             }
         },
         {
-            "id": "0.1.31d-pre_alpha",
+            "id": "0.1.31d",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1716573600,
@@ -1104,7 +1104,7 @@
             }
         },
         {
-            "id": "0.1.31c-pre_alpha",
+            "id": "0.1.31c",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1716573600,
@@ -1115,7 +1115,7 @@
             }
         },
         {
-            "id": "0.1.31b-pre_alpha",
+            "id": "0.1.31b",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1716573600,
@@ -1126,7 +1126,7 @@
             }
         },
         {
-            "id": "0.1.31-pre_alpha",
+            "id": "0.1.31",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716234055,
@@ -1137,7 +1137,7 @@
             }
         },
         {
-            "id": "0.1.30-pre_alpha",
+            "id": "0.1.30",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716147973,
@@ -1148,7 +1148,7 @@
             }
         },
         {
-            "id": "0.1.29-pre_alpha",
+            "id": "0.1.29",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716076800,
@@ -1159,7 +1159,7 @@
             }
         },
         {
-            "id": "0.1.28-pre_alpha",
+            "id": "0.1.28",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713644463,
@@ -1170,7 +1170,7 @@
             }
         },
         {
-            "id": "0.1.27-pre_alpha",
+            "id": "0.1.27",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713481610,
@@ -1181,7 +1181,7 @@
             }
         },
         {
-            "id": "0.1.26-pre_alpha",
+            "id": "0.1.26",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713481610,
@@ -1192,7 +1192,7 @@
             }
         },
         {
-            "id": "0.1.25-pre_alpha",
+            "id": "0.1.25",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713480611,
@@ -1203,7 +1203,7 @@
             }
         },
         {
-            "id": "0.1.24-pre_alpha",
+            "id": "0.1.24",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713312000,
@@ -1214,7 +1214,7 @@
             }
         },
         {
-            "id": "0.1.23-pre_alpha",
+            "id": "0.1.23",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713139200,
@@ -1225,7 +1225,7 @@
             }
         },
         {
-            "id": "0.1.22-pre_alpha",
+            "id": "0.1.22",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1712880000,
@@ -1236,7 +1236,7 @@
             }
         },
         {
-            "id": "0.1.21-pre_alpha",
+            "id": "0.1.21",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1712448000,
@@ -1247,7 +1247,7 @@
             }
         },
         {
-            "id": "0.1.20m-pre_alpha",
+            "id": "0.1.20m",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712448000,
@@ -1258,7 +1258,7 @@
             }
         },
         {
-            "id": "0.1.20l-pre_alpha",
+            "id": "0.1.20l",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712448000,
@@ -1269,7 +1269,7 @@
             }
         },
         {
-            "id": "0.1.20k-pre_alpha",
+            "id": "0.1.20k",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712448000,
@@ -1280,7 +1280,7 @@
             }
         },
         {
-            "id": "0.1.20j-pre_alpha",
+            "id": "0.1.20j",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712361600,
@@ -1291,7 +1291,7 @@
             }
         },
         {
-            "id": "0.1.20i-pre_alpha",
+            "id": "0.1.20i",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712361600,
@@ -1302,7 +1302,7 @@
             }
         },
         {
-            "id": "0.1.20h-pre_alpha",
+            "id": "0.1.20h",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712361600,
@@ -1313,7 +1313,7 @@
             }
         },
         {
-            "id": "0.1.20g-pre_alpha",
+            "id": "0.1.20g",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1324,7 +1324,7 @@
             }
         },
         {
-            "id": "0.1.20f-pre_alpha",
+            "id": "0.1.20f",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1335,7 +1335,7 @@
             }
         },
         {
-            "id": "0.1.20e-pre_alpha",
+            "id": "0.1.20e",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1346,7 +1346,7 @@
             }
         },
         {
-            "id": "0.1.20d-pre_alpha",
+            "id": "0.1.20d",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1357,7 +1357,7 @@
             }
         },
         {
-            "id": "0.1.20c-pre_alpha",
+            "id": "0.1.20c",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1368,7 +1368,7 @@
             }
         },
         {
-            "id": "0.1.20b-pre_alpha",
+            "id": "0.1.20b",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1379,7 +1379,7 @@
             }
         },
         {
-            "id": "0.1.20-pre_alpha",
+            "id": "0.1.20",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1390,7 +1390,7 @@
             }
         },
         {
-            "id": "0.1.19-pre_alpha",
+            "id": "0.1.19",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1712016000,
@@ -1401,7 +1401,7 @@
             }
         },
         {
-            "id": "0.1.18-pre_alpha",
+            "id": "0.1.18",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711929600,
@@ -1412,29 +1412,29 @@
             }
         },
         {
-            "id": "0.1.17b-pre_alpha",
+            "id": "0.1.17b blue",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711843200,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.17b-pre_alpha/cosmic-reach-client-0.1.17b-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.17b-blue-pre_alpha/cosmic-reach-client-0.1.17b-blue-pre_alpha.jar",
                 "sha256": "14e4b1119c5cf2077ad3d2901395597829668d89772bdf69d17bdf11f3d052aa",
                 "size": 23693469
             }
         },
         {
-            "id": "0.1.17b-pre_alpha",
+            "id": "0.1.17b red",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711843200,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.17b-pre_alpha/cosmic-reach-client-0.1.17b-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.17b-red-pre_alpha/cosmic-reach-client-0.1.17b-red-pre_alpha.jar",
                 "sha256": "173f43b199e703178c4d2b111a9f3b12f7288a744213d79929d32bea63d4efeb",
                 "size": 23693467
             }
         },
         {
-            "id": "0.1.17-pre_alpha",
+            "id": "0.1.17",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711756800,
@@ -1445,7 +1445,7 @@
             }
         },
         {
-            "id": "0.1.16-pre_alpha",
+            "id": "0.1.16",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711756800,
@@ -1456,7 +1456,7 @@
             }
         },
         {
-            "id": "0.1.15-pre_alpha",
+            "id": "0.1.15",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711497600,
@@ -1467,7 +1467,7 @@
             }
         },
         {
-            "id": "0.1.14b-pre_alpha",
+            "id": "0.1.14b",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711324800,
@@ -1478,7 +1478,7 @@
             }
         },
         {
-            "id": "0.1.14-pre_alpha",
+            "id": "0.1.14",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711324800,
@@ -1489,7 +1489,7 @@
             }
         },
         {
-            "id": "0.1.13d-pre_alpha",
+            "id": "0.1.13d",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1500,7 +1500,7 @@
             }
         },
         {
-            "id": "0.1.13c-pre_alpha",
+            "id": "0.1.13c",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1511,7 +1511,7 @@
             }
         },
         {
-            "id": "0.1.13b-pre_alpha",
+            "id": "0.1.13b",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1522,7 +1522,7 @@
             }
         },
         {
-            "id": "0.1.13-pre_alpha",
+            "id": "0.1.13",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1533,7 +1533,7 @@
             }
         },
         {
-            "id": "0.1.12g-pre_alpha",
+            "id": "0.1.12g",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1544,7 +1544,7 @@
             }
         },
         {
-            "id": "0.1.12f-pre_alpha",
+            "id": "0.1.12f",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1555,7 +1555,7 @@
             }
         },
         {
-            "id": "0.1.12e-pre_alpha",
+            "id": "0.1.12e",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1566,7 +1566,7 @@
             }
         },
         {
-            "id": "0.1.12d-pre_alpha",
+            "id": "0.1.12d",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711152000,
@@ -1577,7 +1577,7 @@
             }
         },
         {
-            "id": "0.1.12c-pre_alpha",
+            "id": "0.1.12c",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711152000,
@@ -1588,7 +1588,7 @@
             }
         },
         {
-            "id": "0.1.12b-pre_alpha",
+            "id": "0.1.12b",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711065600,
@@ -1599,7 +1599,7 @@
             }
         },
         {
-            "id": "0.1.12-pre_alpha",
+            "id": "0.1.12",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711065600,
@@ -1610,7 +1610,7 @@
             }
         },
         {
-            "id": "0.1.11-pre_alpha",
+            "id": "0.1.11",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710892800,
@@ -1621,7 +1621,7 @@
             }
         },
         {
-            "id": "0.1.10-pre_alpha",
+            "id": "0.1.10",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710892800,
@@ -1632,7 +1632,7 @@
             }
         },
         {
-            "id": "0.1.9b-pre_alpha",
+            "id": "0.1.9b",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710892800,
@@ -1643,7 +1643,7 @@
             }
         },
         {
-            "id": "0.1.9-pre_alpha",
+            "id": "0.1.9",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710720000,
@@ -1654,7 +1654,7 @@
             }
         },
         {
-            "id": "0.1.8-pre_alpha",
+            "id": "0.1.8",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710633600,
@@ -1665,7 +1665,7 @@
             }
         },
         {
-            "id": "0.1.7-pre_alpha",
+            "id": "0.1.7",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710547200,
@@ -1676,7 +1676,7 @@
             }
         },
         {
-            "id": "0.1.6b-pre_alpha",
+            "id": "0.1.6b",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710460800,
@@ -1687,7 +1687,7 @@
             }
         },
         {
-            "id": "0.1.6-pre_alpha",
+            "id": "0.1.6",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710374400,
@@ -1698,7 +1698,7 @@
             }
         },
         {
-            "id": "0.1.5d-pre_alpha",
+            "id": "0.1.5d",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710547200,
@@ -1709,7 +1709,7 @@
             }
         },
         {
-            "id": "0.1.5c-pre_alpha",
+            "id": "0.1.5c",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710374400,
@@ -1720,7 +1720,7 @@
             }
         },
         {
-            "id": "0.1.5b-pre_alpha",
+            "id": "0.1.5b",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710374400,
@@ -1731,7 +1731,7 @@
             }
         },
         {
-            "id": "0.1.5-pre_alpha",
+            "id": "0.1.5",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710374400,
@@ -1742,7 +1742,7 @@
             }
         },
         {
-            "id": "0.1.4-pre_alpha",
+            "id": "0.1.4",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710288000,
@@ -1753,7 +1753,7 @@
             }
         },
         {
-            "id": "0.1.3-pre_alpha",
+            "id": "0.1.3",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710201600,
@@ -1764,7 +1764,7 @@
             }
         },
         {
-            "id": "0.1.2-pre_alpha",
+            "id": "0.1.2",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710115200,
@@ -1775,7 +1775,7 @@
             }
         },
         {
-            "id": "0.1.1-pre_alpha",
+            "id": "0.1.1",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710028800,
@@ -1786,7 +1786,7 @@
             }
         },
         {
-            "id": "0.1.0-pre_alpha",
+            "id": "0.1.0",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1797,7 +1797,7 @@
             }
         },
         {
-            "id": "0.0.14-pre_alpha",
+            "id": "0.0.14",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1808,7 +1808,7 @@
             }
         },
         {
-            "id": "0.0.13-pre_alpha",
+            "id": "0.0.13",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1819,7 +1819,7 @@
             }
         },
         {
-            "id": "0.0.12-pre_alpha",
+            "id": "0.0.12",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1830,7 +1830,7 @@
             }
         },
         {
-            "id": "0.0.10-pre_alpha",
+            "id": "0.0.10",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1841,7 +1841,7 @@
             }
         },
         {
-            "id": "0.0.9-pre_alpha",
+            "id": "0.0.9",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1852,7 +1852,7 @@
             }
         },
         {
-            "id": "0.0.8-pre_alpha",
+            "id": "0.0.8",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1863,7 +1863,7 @@
             }
         },
         {
-            "id": "0.0.7-pre_alpha",
+            "id": "0.0.7",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1874,7 +1874,7 @@
             }
         },
         {
-            "id": "0.0.6-pre_alpha",
+            "id": "0.0.6",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1885,7 +1885,7 @@
             }
         },
         {
-            "id": "0.0.5-pre_alpha",
+            "id": "0.0.5",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1896,7 +1896,7 @@
             }
         },
         {
-            "id": "0.0.4-pre_alpha",
+            "id": "0.0.4",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1907,7 +1907,7 @@
             }
         },
         {
-            "id": "0.0.3-pre_alpha",
+            "id": "0.0.3",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1918,7 +1918,7 @@
             }
         },
         {
-            "id": "0.0.2-pre_alpha",
+            "id": "0.0.2",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1929,7 +1929,7 @@
             }
         },
         {
-            "id": "0.0.1-pre_alpha",
+            "id": "0.0.1",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
