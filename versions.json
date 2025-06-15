@@ -5,7 +5,7 @@
     },
     "versions": [
         {
-            "id": "0.4.11",
+            "id": "0.4.11-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1750023313,
@@ -21,7 +21,7 @@
             }
         },
         {
-            "id": "0.4.10",
+            "id": "0.4.10-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1748265338,
@@ -37,7 +37,7 @@
             }
         },
         {
-            "id": "0.4.9",
+            "id": "0.4.9-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1746835200,
@@ -53,7 +53,7 @@
             }
         },
         {
-            "id": "0.4.8",
+            "id": "0.4.8-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1745712000,
@@ -69,7 +69,7 @@
             }
         },
         {
-            "id": "0.4.7",
+            "id": "0.4.7-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1745107200,
@@ -85,7 +85,7 @@
             }
         },
         {
-            "id": "0.4.6",
+            "id": "0.4.6-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1743379200,
@@ -101,7 +101,7 @@
             }
         },
         {
-            "id": "0.4.5",
+            "id": "0.4.5-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1743292800,
@@ -117,7 +117,7 @@
             }
         },
         {
-            "id": "0.4.4",
+            "id": "0.4.4-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1742083200,
@@ -133,7 +133,7 @@
             }
         },
         {
-            "id": "0.4.3",
+            "id": "0.4.3-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1741996800,
@@ -149,7 +149,7 @@
             }
         },
         {
-            "id": "0.4.2",
+            "id": "0.4.2-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1741996800,
@@ -165,7 +165,7 @@
             }
         },
         {
-            "id": "0.4.1",
+            "id": "0.4.1-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1741478400,
@@ -181,7 +181,7 @@
             }
         },
         {
-            "id": "0.4.0",
+            "id": "0.4.0-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1741392000,
@@ -197,7 +197,7 @@
             }
         },
         {
-            "id": "0.3.27",
+            "id": "0.3.27-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1740268800,
@@ -213,7 +213,7 @@
             }
         },
         {
-            "id": "0.3.26",
+            "id": "0.3.26-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739836800,
@@ -229,7 +229,7 @@
             }
         },
         {
-            "id": "0.3.25",
+            "id": "0.3.25-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739836800,
@@ -245,7 +245,7 @@
             }
         },
         {
-            "id": "0.3.24",
+            "id": "0.3.24-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739750400,
@@ -261,7 +261,7 @@
             }
         },
         {
-            "id": "0.3.23",
+            "id": "0.3.23-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739232000,
@@ -277,7 +277,7 @@
             }
         },
         {
-            "id": "0.3.22",
+            "id": "0.3.22-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739059200,
@@ -293,7 +293,7 @@
             }
         },
         {
-            "id": "0.3.21",
+            "id": "0.3.21-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1738108800,
@@ -309,7 +309,7 @@
             }
         },
         {
-            "id": "0.3.20c",
+            "id": "0.3.20c-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1737951600,
@@ -320,7 +320,7 @@
             }
         },
         {
-            "id": "0.3.20b",
+            "id": "0.3.20b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1737951600,
@@ -331,7 +331,7 @@
             }
         },
         {
-            "id": "0.3.20",
+            "id": "0.3.20-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1737849600,
@@ -347,7 +347,7 @@
             }
         },
         {
-            "id": "0.3.19b",
+            "id": "0.3.19b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1737590400,
@@ -358,7 +358,7 @@
             }
         },
         {
-            "id": "0.3.19",
+            "id": "0.3.19-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1737244800,
@@ -374,7 +374,7 @@
             }
         },
         {
-            "id": "0.3.18",
+            "id": "0.3.18-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1737244800,
@@ -390,7 +390,7 @@
             }
         },
         {
-            "id": "0.3.17",
+            "id": "0.3.17-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1737244800,
@@ -406,7 +406,7 @@
             }
         },
         {
-            "id": "0.3.16",
+            "id": "0.3.16-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1736380800,
@@ -422,7 +422,7 @@
             }
         },
         {
-            "id": "0.3.15",
+            "id": "0.3.15-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1736208000,
@@ -438,7 +438,7 @@
             }
         },
         {
-            "id": "0.3.14",
+            "id": "0.3.14-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1735430400,
@@ -454,7 +454,7 @@
             }
         },
         {
-            "id": "0.3.13",
+            "id": "0.3.13-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1735430400,
@@ -470,7 +470,7 @@
             }
         },
         {
-            "id": "0.3.12",
+            "id": "0.3.12-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1734825600,
@@ -486,7 +486,7 @@
             }
         },
         {
-            "id": "0.3.11",
+            "id": "0.3.11-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1733616000,
@@ -502,7 +502,7 @@
             }
         },
         {
-            "id": "0.3.10",
+            "id": "0.3.10-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1733529600,
@@ -518,7 +518,7 @@
             }
         },
         {
-            "id": "0.3.9",
+            "id": "0.3.9-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1733011200,
@@ -534,7 +534,7 @@
             }
         },
         {
-            "id": "0.3.8",
+            "id": "0.3.8-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1733011200,
@@ -550,7 +550,7 @@
             }
         },
         {
-            "id": "0.3.7",
+            "id": "0.3.7-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1731801600,
@@ -566,7 +566,7 @@
             }
         },
         {
-            "id": "0.3.6",
+            "id": "0.3.6-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730592000,
@@ -582,7 +582,7 @@
             }
         },
         {
-            "id": "0.3.5",
+            "id": "0.3.5-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730592000,
@@ -598,7 +598,7 @@
             }
         },
         {
-            "id": "0.3.4",
+            "id": "0.3.4-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730505600,
@@ -614,7 +614,7 @@
             }
         },
         {
-            "id": "0.3.3",
+            "id": "0.3.3-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730419200,
@@ -630,7 +630,7 @@
             }
         },
         {
-            "id": "0.3.2",
+            "id": "0.3.2-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730419200,
@@ -646,7 +646,7 @@
             }
         },
         {
-            "id": "0.3.2-pre10",
+            "id": "0.3.2-pre10-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729900800,
@@ -662,7 +662,7 @@
             }
         },
         {
-            "id": "0.3.2-pre9",
+            "id": "0.3.2-pre9-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729555200,
@@ -678,7 +678,7 @@
             }
         },
         {
-            "id": "0.3.2-pre8",
+            "id": "0.3.2-pre8-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729555200,
@@ -694,7 +694,7 @@
             }
         },
         {
-            "id": "0.3.2-pre7",
+            "id": "0.3.2-pre7-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729468800,
@@ -710,7 +710,7 @@
             }
         },
         {
-            "id": "0.3.2-pre6",
+            "id": "0.3.2-pre6-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729036800,
@@ -726,7 +726,7 @@
             }
         },
         {
-            "id": "0.3.2-pre5",
+            "id": "0.3.2-pre5-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728345600,
@@ -742,7 +742,7 @@
             }
         },
         {
-            "id": "0.3.2-pre4",
+            "id": "0.3.2-pre4-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728259200,
@@ -753,7 +753,7 @@
             }
         },
         {
-            "id": "0.3.2-pre3",
+            "id": "0.3.2-pre3-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728259200,
@@ -764,7 +764,7 @@
             }
         },
         {
-            "id": "0.3.2-pre2",
+            "id": "0.3.2-pre2-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728259200,
@@ -780,7 +780,7 @@
             }
         },
         {
-            "id": "0.3.2-pre1",
+            "id": "0.3.2-pre1-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728172800,
@@ -796,7 +796,7 @@
             }
         },
         {
-            "id": "0.3.1",
+            "id": "0.3.1-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1726358400,
@@ -807,7 +807,7 @@
             }
         },
         {
-            "id": "0.3.0",
+            "id": "0.3.0-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1726358400,
@@ -818,7 +818,7 @@
             }
         },
         {
-            "id": "0.2.5",
+            "id": "0.2.5-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725926400,
@@ -829,7 +829,7 @@
             }
         },
         {
-            "id": "0.2.4",
+            "id": "0.2.4-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725667200,
@@ -840,7 +840,7 @@
             }
         },
         {
-            "id": "0.2.3",
+            "id": "0.2.3-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725667200,
@@ -851,7 +851,7 @@
             }
         },
         {
-            "id": "0.2.2",
+            "id": "0.2.2-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725667200,
@@ -862,7 +862,7 @@
             }
         },
         {
-            "id": "0.2.1",
+            "id": "0.2.1-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725667200,
@@ -873,7 +873,7 @@
             }
         },
         {
-            "id": "0.2.0",
+            "id": "0.2.0-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725062400,
@@ -884,7 +884,7 @@
             }
         },
         {
-            "id": "0.1.50",
+            "id": "0.1.50-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1724630400,
@@ -895,7 +895,7 @@
             }
         },
         {
-            "id": "0.1.49",
+            "id": "0.1.49-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1724630400,
@@ -906,7 +906,7 @@
             }
         },
         {
-            "id": "0.1.48",
+            "id": "0.1.48-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1724544000,
@@ -917,7 +917,7 @@
             }
         },
         {
-            "id": "0.1.47",
+            "id": "0.1.47-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1723852800,
@@ -928,7 +928,7 @@
             }
         },
         {
-            "id": "0.1.46",
+            "id": "0.1.46-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1723852800,
@@ -939,7 +939,7 @@
             }
         },
         {
-            "id": "0.1.45",
+            "id": "0.1.45-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1723408320,
@@ -950,7 +950,7 @@
             }
         },
         {
-            "id": "0.1.44",
+            "id": "0.1.44-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1723161600,
@@ -961,7 +961,7 @@
             }
         },
         {
-            "id": "0.1.43",
+            "id": "0.1.43-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1722038400,
@@ -972,7 +972,7 @@
             }
         },
         {
-            "id": "0.1.42",
+            "id": "0.1.42-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1721766960,
@@ -983,7 +983,7 @@
             }
         },
         {
-            "id": "0.1.41",
+            "id": "0.1.41-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1721765460,
@@ -994,7 +994,7 @@
             }
         },
         {
-            "id": "0.1.40",
+            "id": "0.1.40-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1720742400,
@@ -1005,7 +1005,7 @@
             }
         },
         {
-            "id": "0.1.39",
+            "id": "0.1.39-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1719878400,
@@ -1016,7 +1016,7 @@
             }
         },
         {
-            "id": "0.1.38",
+            "id": "0.1.38-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1719792000,
@@ -1027,7 +1027,7 @@
             }
         },
         {
-            "id": "0.1.37",
+            "id": "0.1.37-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1719014400,
@@ -1038,7 +1038,7 @@
             }
         },
         {
-            "id": "0.1.36",
+            "id": "0.1.36-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1717275600,
@@ -1049,7 +1049,7 @@
             }
         },
         {
-            "id": "0.1.35",
+            "id": "0.1.35-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1717275600,
@@ -1060,7 +1060,7 @@
             }
         },
         {
-            "id": "0.1.34",
+            "id": "0.1.34-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1717275600,
@@ -1071,7 +1071,7 @@
             }
         },
         {
-            "id": "0.1.33",
+            "id": "0.1.33-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716768000,
@@ -1082,7 +1082,7 @@
             }
         },
         {
-            "id": "0.1.32",
+            "id": "0.1.32-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716768000,
@@ -1093,7 +1093,7 @@
             }
         },
         {
-            "id": "0.1.31d",
+            "id": "0.1.31d-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1716573600,
@@ -1104,7 +1104,7 @@
             }
         },
         {
-            "id": "0.1.31c",
+            "id": "0.1.31c-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1716573600,
@@ -1115,7 +1115,7 @@
             }
         },
         {
-            "id": "0.1.31b",
+            "id": "0.1.31b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1716573600,
@@ -1126,7 +1126,7 @@
             }
         },
         {
-            "id": "0.1.31",
+            "id": "0.1.31-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716234055,
@@ -1137,7 +1137,7 @@
             }
         },
         {
-            "id": "0.1.30",
+            "id": "0.1.30-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716147973,
@@ -1148,7 +1148,7 @@
             }
         },
         {
-            "id": "0.1.29",
+            "id": "0.1.29-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716076800,
@@ -1159,7 +1159,7 @@
             }
         },
         {
-            "id": "0.1.28",
+            "id": "0.1.28-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713644463,
@@ -1170,7 +1170,7 @@
             }
         },
         {
-            "id": "0.1.27",
+            "id": "0.1.27-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713481610,
@@ -1181,7 +1181,7 @@
             }
         },
         {
-            "id": "0.1.26",
+            "id": "0.1.26-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713481610,
@@ -1192,7 +1192,7 @@
             }
         },
         {
-            "id": "0.1.25",
+            "id": "0.1.25-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713480611,
@@ -1203,7 +1203,7 @@
             }
         },
         {
-            "id": "0.1.24",
+            "id": "0.1.24-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713312000,
@@ -1214,7 +1214,7 @@
             }
         },
         {
-            "id": "0.1.23",
+            "id": "0.1.23-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713139200,
@@ -1225,7 +1225,7 @@
             }
         },
         {
-            "id": "0.1.22",
+            "id": "0.1.22-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1712880000,
@@ -1236,7 +1236,7 @@
             }
         },
         {
-            "id": "0.1.21",
+            "id": "0.1.21-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1712448000,
@@ -1247,7 +1247,7 @@
             }
         },
         {
-            "id": "0.1.20m",
+            "id": "0.1.20m-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712448000,
@@ -1258,7 +1258,7 @@
             }
         },
         {
-            "id": "0.1.20l",
+            "id": "0.1.20l-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712448000,
@@ -1269,7 +1269,7 @@
             }
         },
         {
-            "id": "0.1.20k",
+            "id": "0.1.20k-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712448000,
@@ -1280,7 +1280,7 @@
             }
         },
         {
-            "id": "0.1.20j",
+            "id": "0.1.20j-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712361600,
@@ -1291,7 +1291,7 @@
             }
         },
         {
-            "id": "0.1.20i",
+            "id": "0.1.20i-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712361600,
@@ -1302,7 +1302,7 @@
             }
         },
         {
-            "id": "0.1.20h",
+            "id": "0.1.20h-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712361600,
@@ -1313,7 +1313,7 @@
             }
         },
         {
-            "id": "0.1.20g",
+            "id": "0.1.20g-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1324,7 +1324,7 @@
             }
         },
         {
-            "id": "0.1.20f",
+            "id": "0.1.20f-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1335,7 +1335,7 @@
             }
         },
         {
-            "id": "0.1.20e",
+            "id": "0.1.20e-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1346,7 +1346,7 @@
             }
         },
         {
-            "id": "0.1.20d",
+            "id": "0.1.20d-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1357,7 +1357,7 @@
             }
         },
         {
-            "id": "0.1.20c",
+            "id": "0.1.20c-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1368,7 +1368,7 @@
             }
         },
         {
-            "id": "0.1.20b",
+            "id": "0.1.20b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1379,7 +1379,7 @@
             }
         },
         {
-            "id": "0.1.20",
+            "id": "0.1.20-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1390,7 +1390,7 @@
             }
         },
         {
-            "id": "0.1.19",
+            "id": "0.1.19-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1712016000,
@@ -1401,7 +1401,7 @@
             }
         },
         {
-            "id": "0.1.18",
+            "id": "0.1.18-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711929600,
@@ -1412,7 +1412,7 @@
             }
         },
         {
-            "id": "0.1.17b blue",
+            "id": "0.1.17b-blue-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711843200,
@@ -1423,7 +1423,7 @@
             }
         },
         {
-            "id": "0.1.17b red",
+            "id": "0.1.17b-red-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711843200,
@@ -1434,7 +1434,7 @@
             }
         },
         {
-            "id": "0.1.17",
+            "id": "0.1.17-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711756800,
@@ -1445,7 +1445,7 @@
             }
         },
         {
-            "id": "0.1.16",
+            "id": "0.1.16-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711756800,
@@ -1456,7 +1456,7 @@
             }
         },
         {
-            "id": "0.1.15",
+            "id": "0.1.15-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711497600,
@@ -1467,7 +1467,7 @@
             }
         },
         {
-            "id": "0.1.14b",
+            "id": "0.1.14b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711324800,
@@ -1478,7 +1478,7 @@
             }
         },
         {
-            "id": "0.1.14",
+            "id": "0.1.14-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711324800,
@@ -1489,7 +1489,7 @@
             }
         },
         {
-            "id": "0.1.13d",
+            "id": "0.1.13d-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1500,7 +1500,7 @@
             }
         },
         {
-            "id": "0.1.13c",
+            "id": "0.1.13c-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1511,7 +1511,7 @@
             }
         },
         {
-            "id": "0.1.13b",
+            "id": "0.1.13b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1522,7 +1522,7 @@
             }
         },
         {
-            "id": "0.1.13",
+            "id": "0.1.13-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1533,7 +1533,7 @@
             }
         },
         {
-            "id": "0.1.12g",
+            "id": "0.1.12g-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1544,7 +1544,7 @@
             }
         },
         {
-            "id": "0.1.12f",
+            "id": "0.1.12f-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1555,7 +1555,7 @@
             }
         },
         {
-            "id": "0.1.12e",
+            "id": "0.1.12e-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1566,7 +1566,7 @@
             }
         },
         {
-            "id": "0.1.12d",
+            "id": "0.1.12d-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711152000,
@@ -1577,7 +1577,7 @@
             }
         },
         {
-            "id": "0.1.12c",
+            "id": "0.1.12c-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711152000,
@@ -1588,7 +1588,7 @@
             }
         },
         {
-            "id": "0.1.12b",
+            "id": "0.1.12b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711065600,
@@ -1599,7 +1599,7 @@
             }
         },
         {
-            "id": "0.1.12",
+            "id": "0.1.12-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711065600,
@@ -1610,7 +1610,7 @@
             }
         },
         {
-            "id": "0.1.11",
+            "id": "0.1.11-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710892800,
@@ -1621,7 +1621,7 @@
             }
         },
         {
-            "id": "0.1.10",
+            "id": "0.1.10-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710892800,
@@ -1632,7 +1632,7 @@
             }
         },
         {
-            "id": "0.1.9b",
+            "id": "0.1.9b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710892800,
@@ -1643,7 +1643,7 @@
             }
         },
         {
-            "id": "0.1.9",
+            "id": "0.1.9-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710720000,
@@ -1654,7 +1654,7 @@
             }
         },
         {
-            "id": "0.1.8",
+            "id": "0.1.8-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710633600,
@@ -1665,7 +1665,7 @@
             }
         },
         {
-            "id": "0.1.7",
+            "id": "0.1.7-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710547200,
@@ -1676,7 +1676,7 @@
             }
         },
         {
-            "id": "0.1.6b",
+            "id": "0.1.6b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710460800,
@@ -1687,7 +1687,7 @@
             }
         },
         {
-            "id": "0.1.6",
+            "id": "0.1.6-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710374400,
@@ -1698,7 +1698,7 @@
             }
         },
         {
-            "id": "0.1.5d",
+            "id": "0.1.5d-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710547200,
@@ -1709,7 +1709,7 @@
             }
         },
         {
-            "id": "0.1.5c",
+            "id": "0.1.5c-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710374400,
@@ -1720,7 +1720,7 @@
             }
         },
         {
-            "id": "0.1.5b",
+            "id": "0.1.5b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710374400,
@@ -1731,7 +1731,7 @@
             }
         },
         {
-            "id": "0.1.5",
+            "id": "0.1.5-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710374400,
@@ -1742,7 +1742,7 @@
             }
         },
         {
-            "id": "0.1.4",
+            "id": "0.1.4-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710288000,
@@ -1753,7 +1753,7 @@
             }
         },
         {
-            "id": "0.1.3",
+            "id": "0.1.3-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710201600,
@@ -1764,7 +1764,7 @@
             }
         },
         {
-            "id": "0.1.2",
+            "id": "0.1.2-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710115200,
@@ -1775,7 +1775,7 @@
             }
         },
         {
-            "id": "0.1.1",
+            "id": "0.1.1-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710028800,
@@ -1786,7 +1786,7 @@
             }
         },
         {
-            "id": "0.1.0",
+            "id": "0.1.0-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1797,7 +1797,7 @@
             }
         },
         {
-            "id": "0.0.14",
+            "id": "0.0.14-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1808,7 +1808,7 @@
             }
         },
         {
-            "id": "0.0.13",
+            "id": "0.0.13-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1819,7 +1819,7 @@
             }
         },
         {
-            "id": "0.0.12",
+            "id": "0.0.12-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1830,7 +1830,7 @@
             }
         },
         {
-            "id": "0.0.10",
+            "id": "0.0.10-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1841,7 +1841,7 @@
             }
         },
         {
-            "id": "0.0.9",
+            "id": "0.0.9-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1852,7 +1852,7 @@
             }
         },
         {
-            "id": "0.0.8",
+            "id": "0.0.8-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1863,7 +1863,7 @@
             }
         },
         {
-            "id": "0.0.7",
+            "id": "0.0.7-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1874,7 +1874,7 @@
             }
         },
         {
-            "id": "0.0.6",
+            "id": "0.0.6-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1885,7 +1885,7 @@
             }
         },
         {
-            "id": "0.0.5",
+            "id": "0.0.5-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1896,7 +1896,7 @@
             }
         },
         {
-            "id": "0.0.4",
+            "id": "0.0.4-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1907,7 +1907,7 @@
             }
         },
         {
-            "id": "0.0.3",
+            "id": "0.0.3-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1918,7 +1918,7 @@
             }
         },
         {
-            "id": "0.0.2",
+            "id": "0.0.2-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1929,7 +1929,7 @@
             }
         },
         {
-            "id": "0.0.1",
+            "id": "0.0.1-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
