@@ -5,648 +5,648 @@
     },
     "versions": [
         {
-            "id": "0.4.11-alpha",
+            "id": "0.4.11-alpha-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1750023313,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.11-alpha/cosmic-reach-client-0.4.11-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.11-alpha-alpha/cosmic-reach-client-0.4.11-alpha-alpha.jar",
                 "sha256": "1f9d740112f857eb8b9a13b3ae6b47891807a9ea19fd4469608a0dccf38c4ad9",
                 "size": 54795694
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.11-alpha/cosmic-reach-server-0.4.11-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.11-alpha-alpha/cosmic-reach-server-0.4.11-alpha-alpha.jar",
                 "sha256": "27428b302e980c6a1c232cc0c8b544b9ab5d6e85628e6547ef5d64d42173ad75",
                 "size": 14359584
             }
         },
         {
-            "id": "0.4.10-alpha",
+            "id": "0.4.10-alpha-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1748265338,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.10-alpha/cosmic-reach-client-0.4.10-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.10-alpha-alpha/cosmic-reach-client-0.4.10-alpha-alpha.jar",
                 "sha256": "e7ffaa5565f88fd29b2cc0e3b729d3cdeb647120f8f7afc13c853383bb7b615c",
                 "size": 54734098
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.10-alpha/cosmic-reach-server-0.4.10-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.10-alpha-alpha/cosmic-reach-server-0.4.10-alpha-alpha.jar",
                 "sha256": "9629e947b64a20c2438cc5f69a5272b689c73e3df6c07c945bea19525998e9df",
                 "size": 14301532
             }
         },
         {
-            "id": "0.4.9-alpha",
+            "id": "0.4.9-alpha-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1746835200,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.9-alpha/cosmic-reach-client-0.4.9-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.9-alpha-alpha/cosmic-reach-client-0.4.9-alpha-alpha.jar",
                 "sha256": "a2d17fcd3ccd237aed0d492280c1916174b10b544a2f0f86809c0117af481dfc",
                 "size": 54722262
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.9-alpha/cosmic-reach-server-0.4.9-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.9-alpha-alpha/cosmic-reach-server-0.4.9-alpha-alpha.jar",
                 "sha256": "6b7cce7fbaf2bbd60e87de5681b5cc2f375b33e03d326e350d1bb6c241296bb1",
                 "size": 14289700
             }
         },
         {
-            "id": "0.4.8-alpha",
+            "id": "0.4.8-alpha-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1745712000,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.8-alpha/cosmic-reach-client-0.4.8-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.8-alpha-alpha/cosmic-reach-client-0.4.8-alpha-alpha.jar",
                 "sha256": "38914f1064e9d3257fdac817246d4c49d5035c6d91559a23adf361a67de5a591",
                 "size": 54639018
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.8-alpha/cosmic-reach-server-0.4.8-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.8-alpha-alpha/cosmic-reach-server-0.4.8-alpha-alpha.jar",
                 "sha256": "6c874af02101ecea874740239f6c128de3a504cea77a771a2b6e06dcbef594ce",
                 "size": 14211430
             }
         },
         {
-            "id": "0.4.7-alpha",
+            "id": "0.4.7-alpha-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1745107200,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.7-alpha/cosmic-reach-client-0.4.7-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.7-alpha-alpha/cosmic-reach-client-0.4.7-alpha-alpha.jar",
                 "sha256": "c4e0bd561eb4c83790ba5e24b817c5a3d76714ee67bb57f6562092493da790be",
                 "size": 54597499
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.7-alpha/cosmic-reach-server-0.4.7-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.7-alpha-alpha/cosmic-reach-server-0.4.7-alpha-alpha.jar",
                 "sha256": "a093880eac4435bdfedbe4ae5da3e72a610014496da54617e67f90344ee5b74e",
                 "size": 14170048
             }
         },
         {
-            "id": "0.4.6-alpha",
+            "id": "0.4.6-alpha-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1743379200,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.6-alpha/cosmic-reach-client-0.4.6-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.6-alpha-alpha/cosmic-reach-client-0.4.6-alpha-alpha.jar",
                 "sha256": "7be304dca87a1ed5f142e3b940fbf22c5a9f082d2f9b2bc1cf733d6ca766be5a",
                 "size": 54547566
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.6-alpha/cosmic-reach-server-0.4.6-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.6-alpha-alpha/cosmic-reach-server-0.4.6-alpha-alpha.jar",
                 "sha256": "b5d51251e534bba404c651d387b174b56a81589624d1dd6c27df263f0cd2a9c1",
                 "size": 14137568
             }
         },
         {
-            "id": "0.4.5-alpha",
+            "id": "0.4.5-alpha-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1743292800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.5-alpha/cosmic-reach-client-0.4.5-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.5-alpha-alpha/cosmic-reach-client-0.4.5-alpha-alpha.jar",
                 "sha256": "b95268931f9b7bc69844ce4c3310f148f4d7f51df9591d43d8ddf8e9949364b1",
                 "size": 54543118
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.5-alpha/cosmic-reach-server-0.4.5-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.5-alpha-alpha/cosmic-reach-server-0.4.5-alpha-alpha.jar",
                 "sha256": "c39b07a601bf26bfe4c65ba96c8229e4104dd37cb4adb23fd467c008bce446fb",
                 "size": 14135583
             }
         },
         {
-            "id": "0.4.4-alpha",
+            "id": "0.4.4-alpha-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1742083200,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.4-alpha/cosmic-reach-client-0.4.4-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.4-alpha-alpha/cosmic-reach-client-0.4.4-alpha-alpha.jar",
                 "sha256": "9c10e6b12aacea57d8dfcf849cc97e4d25f34b27606cdc00937560fdcc474daa",
                 "size": 54466093
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.4-alpha/cosmic-reach-server-0.4.4-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.4-alpha-alpha/cosmic-reach-server-0.4.4-alpha-alpha.jar",
                 "sha256": "3b77d6dfd3c75b3c1d8c34045567e2d19f9130b2823b0040bbbbc1814d87881a",
                 "size": 14070535
             }
         },
         {
-            "id": "0.4.3-alpha",
+            "id": "0.4.3-alpha-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1741996800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.3-alpha/cosmic-reach-client-0.4.3-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.3-alpha-alpha/cosmic-reach-client-0.4.3-alpha-alpha.jar",
                 "sha256": "53a8382bc5e6f23a3705a93e652fbc94d054372decbaa3381573effd717725ee",
                 "size": 54465028
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.3-alpha/cosmic-reach-server-0.4.3-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.3-alpha-alpha/cosmic-reach-server-0.4.3-alpha-alpha.jar",
                 "sha256": "1d841ee47c6b52ffc9d98d44589681d0ca632887647c4d1e333685a2352391c7",
                 "size": 14069801
             }
         },
         {
-            "id": "0.4.2-alpha",
+            "id": "0.4.2-alpha-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1741996800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.2-alpha/cosmic-reach-client-0.4.2-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.2-alpha-alpha/cosmic-reach-client-0.4.2-alpha-alpha.jar",
                 "sha256": "ff650e02ae743e2fa568f244f688b507f43e730475c32cb786b11fb430820145",
                 "size": 54464964
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.2-alpha/cosmic-reach-server-0.4.2-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.2-alpha-alpha/cosmic-reach-server-0.4.2-alpha-alpha.jar",
                 "sha256": "09d9d9378a5e48aac6d1bbc8026b16a2eb8a6e668b1bc4a6c91e8d43961c2bc4",
                 "size": 14069916
             }
         },
         {
-            "id": "0.4.1-alpha",
+            "id": "0.4.1-alpha-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1741478400,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.1-alpha/cosmic-reach-client-0.4.1-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.1-alpha-alpha/cosmic-reach-client-0.4.1-alpha-alpha.jar",
                 "sha256": "4cd93598f06401f2fbee2e875bd9b53dfaf9990829fbad76e14ab21ea98e67f3",
                 "size": 54413069
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.1-alpha/cosmic-reach-server-0.4.1-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.1-alpha-alpha/cosmic-reach-server-0.4.1-alpha-alpha.jar",
                 "sha256": "65a22922bbe6c1d6b0d1d45ec79c18791334e6c2fb9b4ee8d6991b5294aa33d8",
                 "size": 14025700
             }
         },
         {
-            "id": "0.4.0-alpha",
+            "id": "0.4.0-alpha-alpha",
             "type": "release",
             "phase": "alpha",
             "releaseTime": 1741392000,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.0-alpha/cosmic-reach-client-0.4.0-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.0-alpha-alpha/cosmic-reach-client-0.4.0-alpha-alpha.jar",
                 "sha256": "b7f96ea4004e1321440ad2ee8ab5c138a0f5b49c58df9246980dc754e94741fa",
                 "size": 54411978
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.0-alpha/cosmic-reach-server-0.4.0-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.0-alpha-alpha/cosmic-reach-server-0.4.0-alpha-alpha.jar",
                 "sha256": "0812a0dccb983c958d37cc7cc4fb5f6c8026dd87c1372bfe0270418ae5061fc8",
                 "size": 14024501
             }
         },
         {
-            "id": "0.3.27-pre_alpha",
+            "id": "0.3.27-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1740268800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.27-pre_alpha/cosmic-reach-client-0.3.27-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.27-pre_alpha-pre_alpha/cosmic-reach-client-0.3.27-pre_alpha-pre_alpha.jar",
                 "sha256": "5446dae507521f87873ff41543c3dcec3e1e8e277458e346015e3d841e7d99a5",
                 "size": 54372077
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.27-pre_alpha/cosmic-reach-server-0.3.27-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.27-pre_alpha-pre_alpha/cosmic-reach-server-0.3.27-pre_alpha-pre_alpha.jar",
                 "sha256": "20035386fa455a01620ff5038fd731b229a126392fa1228d220a065b497cf4eb",
                 "size": 13996039
             }
         },
         {
-            "id": "0.3.26-pre_alpha",
+            "id": "0.3.26-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739836800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.26-pre_alpha/cosmic-reach-client-0.3.26-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.26-pre_alpha-pre_alpha/cosmic-reach-client-0.3.26-pre_alpha-pre_alpha.jar",
                 "sha256": "1ff3014c64e7f0f9bb10b9218c00636643faf8db2374a276245d8917477aaf5a",
                 "size": 54349249
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.26-pre_alpha/cosmic-reach-server-0.3.26-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.26-pre_alpha-pre_alpha/cosmic-reach-server-0.3.26-pre_alpha-pre_alpha.jar",
                 "sha256": "9f533ee160168107f6e993c609cb3901382439ba7917690937b893965866421e",
                 "size": 13973916
             }
         },
         {
-            "id": "0.3.25-pre_alpha",
+            "id": "0.3.25-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739836800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.25-pre_alpha/cosmic-reach-client-0.3.25-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.25-pre_alpha-pre_alpha/cosmic-reach-client-0.3.25-pre_alpha-pre_alpha.jar",
                 "sha256": "0c306540cd873c83e2454778e7bc1f0672541af4a8bf810377b98ea9c0a452a0",
                 "size": 54341607
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.25-pre_alpha/cosmic-reach-server-0.3.25-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.25-pre_alpha-pre_alpha/cosmic-reach-server-0.3.25-pre_alpha-pre_alpha.jar",
                 "sha256": "905abf56756b03365ad295562b1c2942dd7c717e7348d2a1013c671c3ef6d5d0",
                 "size": 13966391
             }
         },
         {
-            "id": "0.3.24-pre_alpha",
+            "id": "0.3.24-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739750400,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.24-pre_alpha/cosmic-reach-client-0.3.24-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.24-pre_alpha-pre_alpha/cosmic-reach-client-0.3.24-pre_alpha-pre_alpha.jar",
                 "sha256": "489e1ab1fe075107af16ea9110671224bf9f0a7788413536d952787f41381080",
                 "size": 54337743
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.24-pre_alpha/cosmic-reach-server-0.3.24-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.24-pre_alpha-pre_alpha/cosmic-reach-server-0.3.24-pre_alpha-pre_alpha.jar",
                 "sha256": "627e32c3cacefa00f4f71a7344777cd9d4824720ca29e8760e0d4ff46df74488",
                 "size": 13962907
             }
         },
         {
-            "id": "0.3.23-pre_alpha",
+            "id": "0.3.23-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739232000,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.23-pre_alpha/cosmic-reach-client-0.3.23-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.23-pre_alpha-pre_alpha/cosmic-reach-client-0.3.23-pre_alpha-pre_alpha.jar",
                 "sha256": "a902f4f68b173ad893df38b0c6bd6bd85c088db8594b8b218288ff560ff9b5b5",
                 "size": 54289383
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.23-pre_alpha/cosmic-reach-server-0.3.23-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.23-pre_alpha-pre_alpha/cosmic-reach-server-0.3.23-pre_alpha-pre_alpha.jar",
                 "sha256": "5f90e3bbfa59574d7837feaa14b471179cc2522403917eba32e00d3dfb60d668",
                 "size": 13914836
             }
         },
         {
-            "id": "0.3.22-pre_alpha",
+            "id": "0.3.22-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1739059200,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.22-pre_alpha/cosmic-reach-client-0.3.22-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.22-pre_alpha-pre_alpha/cosmic-reach-client-0.3.22-pre_alpha-pre_alpha.jar",
                 "sha256": "7ed5126bbd630c96b2e44bf2247a661708ba6402104d708fc1d855ade1407898",
                 "size": 54270632
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.22-pre_alpha/cosmic-reach-server-0.3.22-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.22-pre_alpha-pre_alpha/cosmic-reach-server-0.3.22-pre_alpha-pre_alpha.jar",
                 "sha256": "213d4d3a92035ce8248102718f278ed2f09cdf933a4db03ef4e50f5694d142a5",
                 "size": 13896519
             }
         },
         {
-            "id": "0.3.21-pre_alpha",
+            "id": "0.3.21-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1738108800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.21-pre_alpha/cosmic-reach-client-0.3.21-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.21-pre_alpha-pre_alpha/cosmic-reach-client-0.3.21-pre_alpha-pre_alpha.jar",
                 "sha256": "fb7e466ce9704bc19024925aa1cbb5c2c33d9a69276073a3f2402b5fb3176389",
                 "size": 54194948
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.21-pre_alpha/cosmic-reach-server-0.3.21-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.21-pre_alpha-pre_alpha/cosmic-reach-server-0.3.21-pre_alpha-pre_alpha.jar",
                 "sha256": "b490e85d7bf32b6686a45f52ade577d6b359aab464a24ada9e878a2c64f0a23a",
                 "size": 13829119
             }
         },
         {
-            "id": "0.3.20c-pre_alpha",
+            "id": "0.3.20c-pre_alpha-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1737951600,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.20c-pre_alpha/cosmic-reach-client-0.3.20c-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.20c-pre_alpha-pre_alpha/cosmic-reach-client-0.3.20c-pre_alpha-pre_alpha.jar",
                 "sha256": "6cbc72c3b09392f7f229d5e6190c7cf7638114b1cfd7958dceca8eeaf19e7f42",
                 "size": 54189805
             }
         },
         {
-            "id": "0.3.20b-pre_alpha",
+            "id": "0.3.20b-pre_alpha-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1737951600,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.20b-pre_alpha/cosmic-reach-client-0.3.20b-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.20b-pre_alpha-pre_alpha/cosmic-reach-client-0.3.20b-pre_alpha-pre_alpha.jar",
                 "sha256": "d489fd4ab862329fc36dfd2f7ba0714008c1412ce44bc7075cf3e78116c522c2",
                 "size": 54189807
             }
         },
         {
-            "id": "0.3.20-pre_alpha",
+            "id": "0.3.20-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1737849600,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.20-pre_alpha/cosmic-reach-client-0.3.20-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.20-pre_alpha-pre_alpha/cosmic-reach-client-0.3.20-pre_alpha-pre_alpha.jar",
                 "sha256": "a765b29e8ee687dd6e150631f8ec7a48d88e0850bad38d70d633a141d28bb977",
                 "size": 54189687
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.20-pre_alpha/cosmic-reach-server-0.3.20-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.20-pre_alpha-pre_alpha/cosmic-reach-server-0.3.20-pre_alpha-pre_alpha.jar",
                 "sha256": "7045a419fb1c04f45608779d6c17db39d769cfeb7fb85c804bfcc4dd3f9d267b",
                 "size": 13824584
             }
         },
         {
-            "id": "0.3.19b-pre_alpha",
+            "id": "0.3.19b-pre_alpha-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1737590400,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.19b-pre_alpha/cosmic-reach-client-0.3.19b-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.19b-pre_alpha-pre_alpha/cosmic-reach-client-0.3.19b-pre_alpha-pre_alpha.jar",
                 "sha256": "4d22d2b432897063121098e25de52d9587e39e43334aa62ed0de0a7ae890421f",
                 "size": 53455303
             }
         },
         {
-            "id": "0.3.19-pre_alpha",
+            "id": "0.3.19-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1737244800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.19-pre_alpha/cosmic-reach-client-0.3.19-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.19-pre_alpha-pre_alpha/cosmic-reach-client-0.3.19-pre_alpha-pre_alpha.jar",
                 "sha256": "5573cacf3fdc4ca6d162bf18d05a18620825cb8c24db734077f8e999d8817d4b",
                 "size": 53456684
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.19-pre_alpha/cosmic-reach-server-0.3.19-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.19-pre_alpha-pre_alpha/cosmic-reach-server-0.3.19-pre_alpha-pre_alpha.jar",
                 "sha256": "fec4aa618a0e76a1e04e9c83b885e78dd40610c1d41c2ad11b0ddf3bbb3104cf",
                 "size": 13101136
             }
         },
         {
-            "id": "0.3.18-pre_alpha",
+            "id": "0.3.18-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1737244800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.18-pre_alpha/cosmic-reach-client-0.3.18-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.18-pre_alpha-pre_alpha/cosmic-reach-client-0.3.18-pre_alpha-pre_alpha.jar",
                 "sha256": "5092cd438fdf85400424047b4d05f9f59f47e4f27f4087bb910ed532b5f21d7b",
                 "size": 53456760
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.18-pre_alpha/cosmic-reach-server-0.3.18-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.18-pre_alpha-pre_alpha/cosmic-reach-server-0.3.18-pre_alpha-pre_alpha.jar",
                 "sha256": "1e2f5c5c87a3731784826306a26ae2949405aee390ea75d032fbce8f21afe381",
                 "size": 13101136
             }
         },
         {
-            "id": "0.3.17-pre_alpha",
+            "id": "0.3.17-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1737244800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.17-pre_alpha/cosmic-reach-client-0.3.17-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.17-pre_alpha-pre_alpha/cosmic-reach-client-0.3.17-pre_alpha-pre_alpha.jar",
                 "sha256": "1ecffee81ad56643762102c9213562f061a8ec4a18b6df7551d6fbe2c25c1876",
                 "size": 53456689
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.17-pre_alpha/cosmic-reach-server-0.3.17-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.17-pre_alpha-pre_alpha/cosmic-reach-server-0.3.17-pre_alpha-pre_alpha.jar",
                 "sha256": "0639db0b40d2791d308975a66ec1eb778935ce1bd730c2c7379626f6fef3e4df",
                 "size": 13101262
             }
         },
         {
-            "id": "0.3.16-pre_alpha",
+            "id": "0.3.16-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1736380800,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.16-pre_alpha/cosmic-reach-client-0.3.16-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.16-pre_alpha-pre_alpha/cosmic-reach-client-0.3.16-pre_alpha-pre_alpha.jar",
                 "sha256": "20114e2555d81dbd94b6f76decb0da64df8eb400dd278bc75bc905cd840b3bc3",
                 "size": 53468182
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.16-pre_alpha/cosmic-reach-server-0.3.16-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.16-pre_alpha-pre_alpha/cosmic-reach-server-0.3.16-pre_alpha-pre_alpha.jar",
                 "sha256": "7c511cb7b6af51d2d2812ff2584f8d50cd3ad5ebf7d244fa3364de8038a00b9d",
                 "size": 13117918
             }
         },
         {
-            "id": "0.3.15-pre_alpha",
+            "id": "0.3.15-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1736208000,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.15-pre_alpha/cosmic-reach-client-0.3.15-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.15-pre_alpha-pre_alpha/cosmic-reach-client-0.3.15-pre_alpha-pre_alpha.jar",
                 "sha256": "fa7f46d19328b455a503599961c1ea773b545f1c8a4e201554f4369aecae1ec2",
                 "size": 53425110
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.15-pre_alpha/cosmic-reach-server-0.3.15-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.15-pre_alpha-pre_alpha/cosmic-reach-server-0.3.15-pre_alpha-pre_alpha.jar",
                 "sha256": "cb6bf88c90f2ed956c3558d4f83cc1f2309b843537582b2e9256b8121d57ceb0",
                 "size": 13077936
             }
         },
         {
-            "id": "0.3.14-pre_alpha",
+            "id": "0.3.14-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1735430400,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.14-pre_alpha/cosmic-reach-client-0.3.14-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.14-pre_alpha-pre_alpha/cosmic-reach-client-0.3.14-pre_alpha-pre_alpha.jar",
                 "sha256": "70915270401bf4ada7e3f6b909eebef397a0d896ed192029ec1fecd98eed54d6",
                 "size": 53409134
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.14-pre_alpha/cosmic-reach-server-0.3.14-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.14-pre_alpha-pre_alpha/cosmic-reach-server-0.3.14-pre_alpha-pre_alpha.jar",
                 "sha256": "0a7feeaee8277b04af6042a43dade220f8d0706542eaf76151e04bbe70bb3777",
                 "size": 13068507
             }
         },
         {
-            "id": "0.3.13-pre_alpha",
+            "id": "0.3.13-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1735430400,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.13-pre_alpha/cosmic-reach-client-0.3.13-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.13-pre_alpha-pre_alpha/cosmic-reach-client-0.3.13-pre_alpha-pre_alpha.jar",
                 "sha256": "605646025eb0fd78f607c75311f4138e4c47f4f3b964e586403711a4ffe8dc28",
                 "size": 53409301
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.13-pre_alpha/cosmic-reach-server-0.3.13-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.13-pre_alpha-pre_alpha/cosmic-reach-server-0.3.13-pre_alpha-pre_alpha.jar",
                 "sha256": "5fb4eb3da57c5ca0ad173cb46b34737fe964ffc963107aa40c25bb9bb26d042f",
                 "size": 13068667
             }
         },
         {
-            "id": "0.3.12-pre_alpha",
+            "id": "0.3.12-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1734825600,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.12-pre_alpha/cosmic-reach-client-0.3.12-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.12-pre_alpha-pre_alpha/cosmic-reach-client-0.3.12-pre_alpha-pre_alpha.jar",
                 "sha256": "de6783d1eeae584e5b6093a85e481eeedf5a3cfb29ab80989935139cd7e3b5a8",
                 "size": 53378532
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.12-pre_alpha/cosmic-reach-server-0.3.12-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.12-pre_alpha-pre_alpha/cosmic-reach-server-0.3.12-pre_alpha-pre_alpha.jar",
                 "sha256": "70ab5cb563da2c8d368c1dc017eed0c86f9426bf156b0686c3530099c41cb83a",
                 "size": 13042302
             }
         },
         {
-            "id": "0.3.11-pre_alpha",
+            "id": "0.3.11-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1733616000,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.11-pre_alpha/cosmic-reach-client-0.3.11-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.11-pre_alpha-pre_alpha/cosmic-reach-client-0.3.11-pre_alpha-pre_alpha.jar",
                 "sha256": "2f3980511cba784f38da4b4e721678f11f0c33ddc171644d41262167ad6e1791",
                 "size": 28189013
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.11-pre_alpha/cosmic-reach-server-0.3.11-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.11-pre_alpha-pre_alpha/cosmic-reach-server-0.3.11-pre_alpha-pre_alpha.jar",
                 "sha256": "90293a7e10a7e27aeada3050db4fa211fb1ff14d49f3a5dff0a93aeef8733f49",
                 "size": 13119378
             }
         },
         {
-            "id": "0.3.10-pre_alpha",
+            "id": "0.3.10-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1733529600,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.10-pre_alpha/cosmic-reach-client-0.3.10-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.10-pre_alpha-pre_alpha/cosmic-reach-client-0.3.10-pre_alpha-pre_alpha.jar",
                 "sha256": "6eb1afcd80c8486cec3ffeec63d25fcea6b1541769a8e9e8a270bdc4bd2781cb",
                 "size": 28188959
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.10-pre_alpha/cosmic-reach-server-0.3.10-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.10-pre_alpha-pre_alpha/cosmic-reach-server-0.3.10-pre_alpha-pre_alpha.jar",
                 "sha256": "931e9e08165e9e41b7471e716f3915b99a26409f6458d8de0af99eef7d2762da",
                 "size": 13119490
             }
         },
         {
-            "id": "0.3.9-pre_alpha",
+            "id": "0.3.9-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1733011200,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.9-pre_alpha/cosmic-reach-client-0.3.9-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.9-pre_alpha-pre_alpha/cosmic-reach-client-0.3.9-pre_alpha-pre_alpha.jar",
                 "sha256": "2f85bb2e170d4ef675c7502320938e88cba7165afc147ab79f01c5ec34c6daaa",
                 "size": 28209042
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.9-pre_alpha/cosmic-reach-server-0.3.9-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.9-pre_alpha-pre_alpha/cosmic-reach-server-0.3.9-pre_alpha-pre_alpha.jar",
                 "sha256": "7dff2a87cb4471e04fa001b08e908834aa7e3a501b62085123750f25061424c7",
                 "size": 13140410
             }
         },
         {
-            "id": "0.3.8-pre_alpha",
+            "id": "0.3.8-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1733011200,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.8-pre_alpha/cosmic-reach-client-0.3.8-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.8-pre_alpha-pre_alpha/cosmic-reach-client-0.3.8-pre_alpha-pre_alpha.jar",
                 "sha256": "68cd459e30baabfbd21157e16f690dacef12a5d8d20cb9143ec82e3b6a2a5723",
                 "size": 28207979
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.8-pre_alpha/cosmic-reach-server-0.3.8-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.8-pre_alpha-pre_alpha/cosmic-reach-server-0.3.8-pre_alpha-pre_alpha.jar",
                 "sha256": "49909122217a9ce64b2fc1a7e95433be15cc29c55d7e039f87b9127cc18c353e",
                 "size": 13140457
             }
         },
         {
-            "id": "0.3.7-pre_alpha",
+            "id": "0.3.7-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1731801600,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.7-pre_alpha/cosmic-reach-client-0.3.7-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.7-pre_alpha-pre_alpha/cosmic-reach-client-0.3.7-pre_alpha-pre_alpha.jar",
                 "sha256": "46d1b904893ad34fb3da6a745ab76b18163502e03b67f6f0b7d9b4e7713d9f0c",
                 "size": 28685949
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.7-pre_alpha/cosmic-reach-server-0.3.7-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.7-pre_alpha-pre_alpha/cosmic-reach-server-0.3.7-pre_alpha-pre_alpha.jar",
                 "sha256": "295d4c4a74045ebac4b535681d275c6fcf856cfb3d8684c53285a8c7eca84389",
                 "size": 13145195
             }
         },
         {
-            "id": "0.3.6-pre_alpha",
+            "id": "0.3.6-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730592000,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.6-pre_alpha/cosmic-reach-client-0.3.6-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.6-pre_alpha-pre_alpha/cosmic-reach-client-0.3.6-pre_alpha-pre_alpha.jar",
                 "sha256": "4f0e17f978bd2ba6eec4e6d235de1d46f9d34e6bf4639088a56fb5a7d7b7d2f4",
                 "size": 28671459
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.6-pre_alpha/cosmic-reach-server-0.3.6-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.6-pre_alpha-pre_alpha/cosmic-reach-server-0.3.6-pre_alpha-pre_alpha.jar",
                 "sha256": "c9b0adbd70a46d0b9078d771c11a9b734990b334e5afbed01f84c57741e0968b",
                 "size": 13130723
             }
         },
         {
-            "id": "0.3.5-pre_alpha",
+            "id": "0.3.5-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730592000,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.5-pre_alpha/cosmic-reach-client-0.3.5-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.5-pre_alpha-pre_alpha/cosmic-reach-client-0.3.5-pre_alpha-pre_alpha.jar",
                 "sha256": "4711b749b024ac48830e54ac5a56e5c1f80b33c45cd25647e5360ff12dc5b7bb",
                 "size": 28671459
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.5-pre_alpha/cosmic-reach-server-0.3.5-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.5-pre_alpha-pre_alpha/cosmic-reach-server-0.3.5-pre_alpha-pre_alpha.jar",
                 "sha256": "c3077b4e0b4547f5040f91f75d9a8ae14f6b4071582a23cbf8265b38c8d91a00",
                 "size": 13130830
             }
         },
         {
-            "id": "0.3.4-pre_alpha",
+            "id": "0.3.4-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730505600,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.4-pre_alpha/cosmic-reach-client-0.3.4-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.4-pre_alpha-pre_alpha/cosmic-reach-client-0.3.4-pre_alpha-pre_alpha.jar",
                 "sha256": "e25dff2a67eb53704c4303c15de85c9eb18a5002548ca2671e82c0bacc589266",
                 "size": 28667636
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.4-pre_alpha/cosmic-reach-server-0.3.4-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.4-pre_alpha-pre_alpha/cosmic-reach-server-0.3.4-pre_alpha-pre_alpha.jar",
                 "sha256": "5918399528754d23c5d124de450802b1c03ee7acfdb9ec0b5208ef716a465fec",
                 "size": 13127016
             }
         },
         {
-            "id": "0.3.3-pre_alpha",
+            "id": "0.3.3-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730419200,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.3-pre_alpha/cosmic-reach-client-0.3.3-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.3-pre_alpha-pre_alpha/cosmic-reach-client-0.3.3-pre_alpha-pre_alpha.jar",
                 "sha256": "0cf61c2755eac78fd2e5de5d26f9b21b5cfec153b30527c65efd10f5ec1b4f95",
                 "size": 28667520
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.3-pre_alpha/cosmic-reach-server-0.3.3-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.3-pre_alpha-pre_alpha/cosmic-reach-server-0.3.3-pre_alpha-pre_alpha.jar",
                 "sha256": "15cf4539d4892b2515d1994c8711d2c7d131d5f454e2cbdb88bd7d8fdff5af6e",
                 "size": 13126900
             }
         },
         {
-            "id": "0.3.2-pre_alpha",
+            "id": "0.3.2-pre_alpha-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1730419200,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-client-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha-pre_alpha/cosmic-reach-client-0.3.2-pre_alpha-pre_alpha.jar",
                 "sha256": "b3615aabc64e6eda212334e9104081c9ead318b59e615fe6b09a9efd63273ff6",
                 "size": 28667507
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha/cosmic-reach-server-0.3.2-pre_alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.2-pre_alpha-pre_alpha/cosmic-reach-server-0.3.2-pre_alpha-pre_alpha.jar",
                 "sha256": "0763ba94af4b2a21aad7455db78099d7ef6e466dc9b28090c27f51325bc11e34",
                 "size": 13126887
             }
         },
         {
-            "id": "0.3.2-pre10",
+            "id": "0.3.2-pre10-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729900800,
@@ -662,7 +662,7 @@
             }
         },
         {
-            "id": "0.3.2-pre9",
+            "id": "0.3.2-pre9-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729555200,
@@ -678,7 +678,7 @@
             }
         },
         {
-            "id": "0.3.2-pre8",
+            "id": "0.3.2-pre8-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729555200,
@@ -694,7 +694,7 @@
             }
         },
         {
-            "id": "0.3.2-pre7",
+            "id": "0.3.2-pre7-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729468800,
@@ -710,7 +710,7 @@
             }
         },
         {
-            "id": "0.3.2-pre6",
+            "id": "0.3.2-pre6-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1729036800,
@@ -726,7 +726,7 @@
             }
         },
         {
-            "id": "0.3.2-pre5",
+            "id": "0.3.2-pre5-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728345600,
@@ -742,7 +742,7 @@
             }
         },
         {
-            "id": "0.3.2-pre4",
+            "id": "0.3.2-pre4-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728259200,
@@ -753,7 +753,7 @@
             }
         },
         {
-            "id": "0.3.2-pre3",
+            "id": "0.3.2-pre3-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728259200,
@@ -764,7 +764,7 @@
             }
         },
         {
-            "id": "0.3.2-pre2",
+            "id": "0.3.2-pre2-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728259200,
@@ -780,7 +780,7 @@
             }
         },
         {
-            "id": "0.3.2-pre1",
+            "id": "0.3.2-pre1-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1728172800,
@@ -796,7 +796,7 @@
             }
         },
         {
-            "id": "0.3.1",
+            "id": "0.3.1-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1726358400,
@@ -807,7 +807,7 @@
             }
         },
         {
-            "id": "0.3.0",
+            "id": "0.3.0-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1726358400,
@@ -818,7 +818,7 @@
             }
         },
         {
-            "id": "0.2.5",
+            "id": "0.2.5-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725926400,
@@ -829,7 +829,7 @@
             }
         },
         {
-            "id": "0.2.4",
+            "id": "0.2.4-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725667200,
@@ -840,7 +840,7 @@
             }
         },
         {
-            "id": "0.2.3",
+            "id": "0.2.3-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725667200,
@@ -851,7 +851,7 @@
             }
         },
         {
-            "id": "0.2.2",
+            "id": "0.2.2-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725667200,
@@ -862,7 +862,7 @@
             }
         },
         {
-            "id": "0.2.1",
+            "id": "0.2.1-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725667200,
@@ -873,7 +873,7 @@
             }
         },
         {
-            "id": "0.2.0",
+            "id": "0.2.0-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1725062400,
@@ -884,7 +884,7 @@
             }
         },
         {
-            "id": "0.1.50",
+            "id": "0.1.50-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1724630400,
@@ -895,7 +895,7 @@
             }
         },
         {
-            "id": "0.1.49",
+            "id": "0.1.49-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1724630400,
@@ -906,7 +906,7 @@
             }
         },
         {
-            "id": "0.1.48",
+            "id": "0.1.48-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1724544000,
@@ -917,7 +917,7 @@
             }
         },
         {
-            "id": "0.1.47",
+            "id": "0.1.47-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1723852800,
@@ -928,7 +928,7 @@
             }
         },
         {
-            "id": "0.1.46",
+            "id": "0.1.46-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1723852800,
@@ -939,7 +939,7 @@
             }
         },
         {
-            "id": "0.1.45",
+            "id": "0.1.45-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1723408320,
@@ -950,7 +950,7 @@
             }
         },
         {
-            "id": "0.1.44",
+            "id": "0.1.44-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1723161600,
@@ -961,7 +961,7 @@
             }
         },
         {
-            "id": "0.1.43",
+            "id": "0.1.43-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1722038400,
@@ -972,7 +972,7 @@
             }
         },
         {
-            "id": "0.1.42",
+            "id": "0.1.42-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1721766960,
@@ -983,7 +983,7 @@
             }
         },
         {
-            "id": "0.1.41",
+            "id": "0.1.41-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1721765460,
@@ -994,7 +994,7 @@
             }
         },
         {
-            "id": "0.1.40",
+            "id": "0.1.40-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1720742400,
@@ -1005,7 +1005,7 @@
             }
         },
         {
-            "id": "0.1.39",
+            "id": "0.1.39-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1719878400,
@@ -1016,7 +1016,7 @@
             }
         },
         {
-            "id": "0.1.38",
+            "id": "0.1.38-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1719792000,
@@ -1027,7 +1027,7 @@
             }
         },
         {
-            "id": "0.1.37",
+            "id": "0.1.37-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1719014400,
@@ -1038,7 +1038,7 @@
             }
         },
         {
-            "id": "0.1.36",
+            "id": "0.1.36-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1717275600,
@@ -1049,7 +1049,7 @@
             }
         },
         {
-            "id": "0.1.35",
+            "id": "0.1.35-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1717275600,
@@ -1060,7 +1060,7 @@
             }
         },
         {
-            "id": "0.1.34",
+            "id": "0.1.34-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1717275600,
@@ -1071,7 +1071,7 @@
             }
         },
         {
-            "id": "0.1.33",
+            "id": "0.1.33-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716768000,
@@ -1082,7 +1082,7 @@
             }
         },
         {
-            "id": "0.1.32",
+            "id": "0.1.32-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716768000,
@@ -1093,7 +1093,7 @@
             }
         },
         {
-            "id": "0.1.31d",
+            "id": "0.1.31d-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1716573600,
@@ -1104,7 +1104,7 @@
             }
         },
         {
-            "id": "0.1.31c",
+            "id": "0.1.31c-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1716573600,
@@ -1115,7 +1115,7 @@
             }
         },
         {
-            "id": "0.1.31b",
+            "id": "0.1.31b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1716573600,
@@ -1126,7 +1126,7 @@
             }
         },
         {
-            "id": "0.1.31",
+            "id": "0.1.31-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716234055,
@@ -1137,7 +1137,7 @@
             }
         },
         {
-            "id": "0.1.30",
+            "id": "0.1.30-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716147973,
@@ -1148,7 +1148,7 @@
             }
         },
         {
-            "id": "0.1.29",
+            "id": "0.1.29-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1716076800,
@@ -1159,7 +1159,7 @@
             }
         },
         {
-            "id": "0.1.28",
+            "id": "0.1.28-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713644463,
@@ -1170,7 +1170,7 @@
             }
         },
         {
-            "id": "0.1.27",
+            "id": "0.1.27-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713481610,
@@ -1181,7 +1181,7 @@
             }
         },
         {
-            "id": "0.1.26",
+            "id": "0.1.26-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713481610,
@@ -1192,7 +1192,7 @@
             }
         },
         {
-            "id": "0.1.25",
+            "id": "0.1.25-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713480611,
@@ -1203,7 +1203,7 @@
             }
         },
         {
-            "id": "0.1.24",
+            "id": "0.1.24-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713312000,
@@ -1214,7 +1214,7 @@
             }
         },
         {
-            "id": "0.1.23",
+            "id": "0.1.23-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1713139200,
@@ -1225,7 +1225,7 @@
             }
         },
         {
-            "id": "0.1.22",
+            "id": "0.1.22-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1712880000,
@@ -1236,7 +1236,7 @@
             }
         },
         {
-            "id": "0.1.21",
+            "id": "0.1.21-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1712448000,
@@ -1247,7 +1247,7 @@
             }
         },
         {
-            "id": "0.1.20m",
+            "id": "0.1.20m-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712448000,
@@ -1258,7 +1258,7 @@
             }
         },
         {
-            "id": "0.1.20l",
+            "id": "0.1.20l-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712448000,
@@ -1269,7 +1269,7 @@
             }
         },
         {
-            "id": "0.1.20k",
+            "id": "0.1.20k-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712448000,
@@ -1280,7 +1280,7 @@
             }
         },
         {
-            "id": "0.1.20j",
+            "id": "0.1.20j-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712361600,
@@ -1291,7 +1291,7 @@
             }
         },
         {
-            "id": "0.1.20i",
+            "id": "0.1.20i-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712361600,
@@ -1302,7 +1302,7 @@
             }
         },
         {
-            "id": "0.1.20h",
+            "id": "0.1.20h-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712361600,
@@ -1313,7 +1313,7 @@
             }
         },
         {
-            "id": "0.1.20g",
+            "id": "0.1.20g-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1324,7 +1324,7 @@
             }
         },
         {
-            "id": "0.1.20f",
+            "id": "0.1.20f-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1335,7 +1335,7 @@
             }
         },
         {
-            "id": "0.1.20e",
+            "id": "0.1.20e-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1346,7 +1346,7 @@
             }
         },
         {
-            "id": "0.1.20d",
+            "id": "0.1.20d-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1357,7 +1357,7 @@
             }
         },
         {
-            "id": "0.1.20c",
+            "id": "0.1.20c-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1368,7 +1368,7 @@
             }
         },
         {
-            "id": "0.1.20b",
+            "id": "0.1.20b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1379,7 +1379,7 @@
             }
         },
         {
-            "id": "0.1.20",
+            "id": "0.1.20-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1712275200,
@@ -1390,7 +1390,7 @@
             }
         },
         {
-            "id": "0.1.19",
+            "id": "0.1.19-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1712016000,
@@ -1401,7 +1401,7 @@
             }
         },
         {
-            "id": "0.1.18",
+            "id": "0.1.18-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711929600,
@@ -1412,7 +1412,7 @@
             }
         },
         {
-            "id": "0.1.17b blue",
+            "id": "0.1.17b-blue-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711843200,
@@ -1423,7 +1423,7 @@
             }
         },
         {
-            "id": "0.1.17b red",
+            "id": "0.1.17b-red-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711843200,
@@ -1434,7 +1434,7 @@
             }
         },
         {
-            "id": "0.1.17",
+            "id": "0.1.17-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711756800,
@@ -1445,7 +1445,7 @@
             }
         },
         {
-            "id": "0.1.16",
+            "id": "0.1.16-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711756800,
@@ -1456,7 +1456,7 @@
             }
         },
         {
-            "id": "0.1.15",
+            "id": "0.1.15-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711497600,
@@ -1467,7 +1467,7 @@
             }
         },
         {
-            "id": "0.1.14b",
+            "id": "0.1.14b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711324800,
@@ -1478,7 +1478,7 @@
             }
         },
         {
-            "id": "0.1.14",
+            "id": "0.1.14-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711324800,
@@ -1489,7 +1489,7 @@
             }
         },
         {
-            "id": "0.1.13d",
+            "id": "0.1.13d-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1500,7 +1500,7 @@
             }
         },
         {
-            "id": "0.1.13c",
+            "id": "0.1.13c-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1511,7 +1511,7 @@
             }
         },
         {
-            "id": "0.1.13b",
+            "id": "0.1.13b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1522,7 +1522,7 @@
             }
         },
         {
-            "id": "0.1.13",
+            "id": "0.1.13-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1533,7 +1533,7 @@
             }
         },
         {
-            "id": "0.1.12g",
+            "id": "0.1.12g-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1544,7 +1544,7 @@
             }
         },
         {
-            "id": "0.1.12f",
+            "id": "0.1.12f-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1555,7 +1555,7 @@
             }
         },
         {
-            "id": "0.1.12e",
+            "id": "0.1.12e-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711238400,
@@ -1566,7 +1566,7 @@
             }
         },
         {
-            "id": "0.1.12d",
+            "id": "0.1.12d-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711152000,
@@ -1577,7 +1577,7 @@
             }
         },
         {
-            "id": "0.1.12c",
+            "id": "0.1.12c-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711152000,
@@ -1588,7 +1588,7 @@
             }
         },
         {
-            "id": "0.1.12b",
+            "id": "0.1.12b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1711065600,
@@ -1599,7 +1599,7 @@
             }
         },
         {
-            "id": "0.1.12",
+            "id": "0.1.12-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1711065600,
@@ -1610,7 +1610,7 @@
             }
         },
         {
-            "id": "0.1.11",
+            "id": "0.1.11-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710892800,
@@ -1621,7 +1621,7 @@
             }
         },
         {
-            "id": "0.1.10",
+            "id": "0.1.10-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710892800,
@@ -1632,7 +1632,7 @@
             }
         },
         {
-            "id": "0.1.9b",
+            "id": "0.1.9b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710892800,
@@ -1643,7 +1643,7 @@
             }
         },
         {
-            "id": "0.1.9",
+            "id": "0.1.9-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710720000,
@@ -1654,7 +1654,7 @@
             }
         },
         {
-            "id": "0.1.8",
+            "id": "0.1.8-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710633600,
@@ -1665,7 +1665,7 @@
             }
         },
         {
-            "id": "0.1.7",
+            "id": "0.1.7-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710547200,
@@ -1676,7 +1676,7 @@
             }
         },
         {
-            "id": "0.1.6b",
+            "id": "0.1.6b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710460800,
@@ -1687,7 +1687,7 @@
             }
         },
         {
-            "id": "0.1.6",
+            "id": "0.1.6-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710374400,
@@ -1698,7 +1698,7 @@
             }
         },
         {
-            "id": "0.1.5d",
+            "id": "0.1.5d-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710547200,
@@ -1709,7 +1709,7 @@
             }
         },
         {
-            "id": "0.1.5c",
+            "id": "0.1.5c-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710374400,
@@ -1720,7 +1720,7 @@
             }
         },
         {
-            "id": "0.1.5b",
+            "id": "0.1.5b-pre_alpha",
             "type": "snapshot",
             "phase": "pre_alpha",
             "releaseTime": 1710374400,
@@ -1731,7 +1731,7 @@
             }
         },
         {
-            "id": "0.1.5",
+            "id": "0.1.5-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710374400,
@@ -1742,7 +1742,7 @@
             }
         },
         {
-            "id": "0.1.4",
+            "id": "0.1.4-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710288000,
@@ -1753,7 +1753,7 @@
             }
         },
         {
-            "id": "0.1.3",
+            "id": "0.1.3-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710201600,
@@ -1764,7 +1764,7 @@
             }
         },
         {
-            "id": "0.1.2",
+            "id": "0.1.2-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710115200,
@@ -1775,7 +1775,7 @@
             }
         },
         {
-            "id": "0.1.1",
+            "id": "0.1.1-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1710028800,
@@ -1786,7 +1786,7 @@
             }
         },
         {
-            "id": "0.1.0",
+            "id": "0.1.0-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1797,7 +1797,7 @@
             }
         },
         {
-            "id": "0.0.14",
+            "id": "0.0.14-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1808,7 +1808,7 @@
             }
         },
         {
-            "id": "0.0.13",
+            "id": "0.0.13-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1819,7 +1819,7 @@
             }
         },
         {
-            "id": "0.0.12",
+            "id": "0.0.12-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1830,7 +1830,7 @@
             }
         },
         {
-            "id": "0.0.10",
+            "id": "0.0.10-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1841,7 +1841,7 @@
             }
         },
         {
-            "id": "0.0.9",
+            "id": "0.0.9-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1852,7 +1852,7 @@
             }
         },
         {
-            "id": "0.0.8",
+            "id": "0.0.8-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1863,7 +1863,7 @@
             }
         },
         {
-            "id": "0.0.7",
+            "id": "0.0.7-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709942400,
@@ -1874,7 +1874,7 @@
             }
         },
         {
-            "id": "0.0.6",
+            "id": "0.0.6-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1885,7 +1885,7 @@
             }
         },
         {
-            "id": "0.0.5",
+            "id": "0.0.5-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1896,7 +1896,7 @@
             }
         },
         {
-            "id": "0.0.4",
+            "id": "0.0.4-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1907,7 +1907,7 @@
             }
         },
         {
-            "id": "0.0.3",
+            "id": "0.0.3-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1918,7 +1918,7 @@
             }
         },
         {
-            "id": "0.0.2",
+            "id": "0.0.2-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
@@ -1929,7 +1929,7 @@
             }
         },
         {
-            "id": "0.0.1",
+            "id": "0.0.1-pre_alpha",
             "type": "release",
             "phase": "pre_alpha",
             "releaseTime": 1709856000,
