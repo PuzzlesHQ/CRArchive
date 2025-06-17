@@ -9,8 +9,10 @@ we have permission to upload the jar of the game
 
 ![permission image](./permission_image_2.png)
 
+## Licenses
 
-## License
-
-This project is licensed under the COSMIC REACH END USER LICENSE AGREEMENT VERSION 1 License.  
+This project not including the jars is licensed under the (To do add license)  License. 
 See the [LICENSE](./LICENSE.md) file for details.
+
+The jars are licensed under the COSMIC REACH END USER LICENSE AGREEMENT VERSION 1 License. 
+See the [LICENSE](./JAR_LICENSE.md) file for details.
