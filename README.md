@@ -11,7 +11,7 @@ we have permission to upload the jar of the game
 
 ## Licenses
 
-This project not including the jars is licensed under the (To do add license)  License. 
+This project not including the jars is licensed under the MIT License. 
 See the [LICENSE](./LICENSE.md) file for details.
 
 The jars are licensed under the COSMIC REACH END USER LICENSE AGREEMENT VERSION 1 License. 
