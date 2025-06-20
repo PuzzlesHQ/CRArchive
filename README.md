@@ -5,9 +5,9 @@
 ## Permission
 we have permission to upload the jar of the game
 
-![permission image](./permission_image.png)
+![permission image](./imgs/permission_image.png)
 
-![permission image](./permission_image_2.png)
+![permission image](./imgs/permission_image_2.png)
 
 ## Licenses
 
