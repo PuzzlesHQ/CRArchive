@@ -314,7 +314,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1737951600,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.20-pre_alpha+c/cosmic-reach-client-0.3.20-pre_alpha+c.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.20-pre_alpha%2Bc/cosmic-reach-client-0.3.20-pre_alpha%2Bc.jar",
         "sha256": "6cbc72c3b09392f7f229d5e6190c7cf7638114b1cfd7958dceca8eeaf19e7f42",
         "size": 54189805
       }
@@ -325,7 +325,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1737951600,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.20-pre_alpha+b/cosmic-reach-client-0.3.20-pre_alpha+b.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.20-pre_alpha%2Bb/cosmic-reach-client-0.3.20-pre_alpha%2Bb.jar",
         "sha256": "d489fd4ab862329fc36dfd2f7ba0714008c1412ce44bc7075cf3e78116c522c2",
         "size": 54189807
       }
@@ -352,7 +352,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1737590400,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.19-pre_alpha+b/cosmic-reach-client-0.3.19-pre_alpha+b.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.3.19-pre_alpha%2Bb/cosmic-reach-client-0.3.19-pre_alpha%2Bb.jar",
         "sha256": "4d22d2b432897063121098e25de52d9587e39e43334aa62ed0de0a7ae890421f",
         "size": 53455303
       }
@@ -1098,7 +1098,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1716573600,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.31-pre_alpha+d/cosmic-reach-client-0.1.31-pre_alpha+d.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.31-pre_alpha%2Bd/cosmic-reach-client-0.1.31-pre_alpha%2Bd.jar",
         "sha256": "b64227f977606d1b8d1bd8ce64951af06668203b222e19979a268e2e9eb877da",
         "size": 24060138
       }
@@ -1109,7 +1109,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1716573600,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.31-pre_alpha+c/cosmic-reach-client-0.1.31-pre_alpha+c.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.31-pre_alpha%2Bc/cosmic-reach-client-0.1.31-pre_alpha%2Bc.jar",
         "sha256": "7d8da13ac51235cb282ac63753b8d3c65e73b47b0b29d4c4e6db925a7053e0cc",
         "size": 24060143
       }
@@ -1120,7 +1120,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1716573600,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.31-pre_alpha+b/cosmic-reach-client-0.1.31-pre_alpha+b.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.31-pre_alpha%2Bb/cosmic-reach-client-0.1.31-pre_alpha%2Bb.jar",
         "sha256": "04bbc8d305263395b52bd211906b75f8edf9fe274f6c65eae2bee562c10f7194",
         "size": 24061921
       }
@@ -1252,7 +1252,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1712448000,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha+m/cosmic-reach-client-0.1.20-pre_alpha+m.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha%2Bm/cosmic-reach-client-0.1.20-pre_alpha%2Bm.jar",
         "sha256": "d3bd54fb821948aa22856b19126c7c28056d91933637e1fa5e17405da940b137",
         "size": 23698625
       }
@@ -1263,7 +1263,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1712448000,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha+l/cosmic-reach-client-0.1.20-pre_alpha+l.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha%2Bl/cosmic-reach-client-0.1.20-pre_alpha%2Bl.jar",
         "sha256": "f5762445847d834a34f535878dcc8e45b6b6d0775463f60834b24290bb98bc44",
         "size": 23698366
       }
@@ -1274,7 +1274,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1712448000,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha+k/cosmic-reach-client-0.1.20-pre_alpha+k.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha%2Bk/cosmic-reach-client-0.1.20-pre_alpha%2Bk.jar",
         "sha256": "7982a0ec360147fbc3ed66225ed27f8b22fc1dd0d028d514db6555da359e55d9",
         "size": 23697529
       }
@@ -1285,7 +1285,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1712361600,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha+j/cosmic-reach-client-0.1.20-pre_alpha+j.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha%2Bj/cosmic-reach-client-0.1.20-pre_alpha%2Bj.jar",
         "sha256": "5a18aa56a32de09ef0ef4c45267eaa89a5db27ad3b76259d05217d2d2d9a7832",
         "size": 23697573
       }
@@ -1296,7 +1296,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1712361600,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha+i/cosmic-reach-client-0.1.20-pre_alpha+i.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha%2Bi/cosmic-reach-client-0.1.20-pre_alpha%2Bi.jar",
         "sha256": "825dc3e26cb593fae33028d3177d597a870e27c79c89e50dc18d2b8eddc22072",
         "size": 23697623
       }
@@ -1307,7 +1307,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1712361600,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha+h/cosmic-reach-client-0.1.20-pre_alpha+h.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha%2Bh/cosmic-reach-client-0.1.20-pre_alpha%2Bh.jar",
         "sha256": "efdb490ae868e5347b014a08c6d94abf2942cec4e8479aa7acee54ec0ec0b621",
         "size": 23697644
       }
@@ -1318,7 +1318,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1712275200,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha+g/cosmic-reach-client-0.1.20-pre_alpha+g.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha%2Bg/cosmic-reach-client-0.1.20-pre_alpha%2Bg.jar",
         "sha256": "15cbad5f0badeff60965beccb83ddf997941b2c175942e27bc320c895b4ff9de",
         "size": 23696536
       }
@@ -1329,7 +1329,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1712275200,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha+f/cosmic-reach-client-0.1.20-pre_alpha+f.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha%2Bf/cosmic-reach-client-0.1.20-pre_alpha%2Bf.jar",
         "sha256": "0caf6ebcf186e6fc38eb48ef5cb5c26893d466ff9441e43eb006bab123d67e66",
         "size": 23696610
       }
@@ -1340,7 +1340,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1712275200,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha+e/cosmic-reach-client-0.1.20-pre_alpha+e.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha%2Be/cosmic-reach-client-0.1.20-pre_alpha%2Be.jar",
         "sha256": "16a34e33312a7bdca66d12c3c484df8367686a65ca0e50a07f0e0709464ea7bb",
         "size": 23696290
       }
@@ -1351,7 +1351,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1712275200,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha+d/cosmic-reach-client-0.1.20-pre_alpha+d.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha%2Bd/cosmic-reach-client-0.1.20-pre_alpha%2Bd.jar",
         "sha256": "14625640f034c8f322d12e88109ec25531c57fa6e80ddcda92bc7f6dc03c0452",
         "size": 23696097
       }
@@ -1362,7 +1362,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1712275200,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha+c/cosmic-reach-client-0.1.20-pre_alpha+c.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha%2Bc/cosmic-reach-client-0.1.20-pre_alpha%2Bc.jar",
         "sha256": "291578bf627be88dbff9fc333eab37f39acf5218cf3e520e0cc50a63d8d7f31c",
         "size": 23696265
       }
@@ -1373,7 +1373,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1712275200,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha+b/cosmic-reach-client-0.1.20-pre_alpha+b.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.20-pre_alpha%2Bb/cosmic-reach-client-0.1.20-pre_alpha%2Bb.jar",
         "sha256": "39679c183876ed603d64de4c5f4e759c8e79f8558157c7f7f41a306c8f52796a",
         "size": 23696311
       }
@@ -1417,7 +1417,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1711843200,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.17-pre_alpha+b.blue/cosmic-reach-client-0.1.17-pre_alpha+b.blue.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.17-pre_alpha%2Bb.blue/cosmic-reach-client-0.1.17-pre_alpha%2Bb.blue.jar",
         "sha256": "14e4b1119c5cf2077ad3d2901395597829668d89772bdf69d17bdf11f3d052aa",
         "size": 23693469
       }
@@ -1428,7 +1428,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1711843200,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.17-pre_alpha+b.red/cosmic-reach-client-0.1.17-pre_alpha+b.red.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.17-pre_alpha%2Bb.red/cosmic-reach-client-0.1.17-pre_alpha%2Bb.red.jar",
         "sha256": "173f43b199e703178c4d2b111a9f3b12f7288a744213d79929d32bea63d4efeb",
         "size": 23693467
       }
@@ -1472,7 +1472,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1711324800,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.14-pre_alpha+b/cosmic-reach-client-0.1.14-pre_alpha+b.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.14-pre_alpha%2Bb/cosmic-reach-client-0.1.14-pre_alpha%2Bb.jar",
         "sha256": "590ad6fc6dd8079290c3e719606d822a7484c09eff46640f051d968025e323eb",
         "size": 23674008
       }
@@ -1494,7 +1494,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1711238400,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.13-pre_alpha+d/cosmic-reach-client-0.1.13-pre_alpha+d.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.13-pre_alpha%2Bd/cosmic-reach-client-0.1.13-pre_alpha%2Bd.jar",
         "sha256": "ce1953497e373a028135ee0fe9b476580300d14e6b27388d48ed7732255d7c41",
         "size": 23671377
       }
@@ -1505,7 +1505,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1711238400,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.13-pre_alpha+c/cosmic-reach-client-0.1.13-pre_alpha+c.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.13-pre_alpha%2Bc/cosmic-reach-client-0.1.13-pre_alpha%2Bc.jar",
         "sha256": "6dd42b253c549121a254fd57300d04e6d91a27c2bd3043b230c554982ffea3ce",
         "size": 23670266
       }
@@ -1516,7 +1516,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1711238400,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.13-pre_alpha+b/cosmic-reach-client-0.1.13-pre_alpha+b.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.13-pre_alpha%2Bb/cosmic-reach-client-0.1.13-pre_alpha%2Bb.jar",
         "sha256": "f223063c46242552d77bcd7135e7013b831381396d393ced94c4bdfff9f89f3a",
         "size": 23670195
       }
@@ -1538,7 +1538,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1711238400,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.12-pre_alpha+g/cosmic-reach-client-0.1.12-pre_alpha+g.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.12-pre_alpha%2Bg/cosmic-reach-client-0.1.12-pre_alpha%2Bg.jar",
         "sha256": "5c25d23d6e1c4f2a4325910b89986112c14324782db56cd5ed3ad5627ffc3dd7",
         "size": 23668124
       }
@@ -1549,7 +1549,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1711238400,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.12-pre_alpha+f/cosmic-reach-client-0.1.12-pre_alpha+f.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.12-pre_alpha%2Bf/cosmic-reach-client-0.1.12-pre_alpha%2Bf.jar",
         "sha256": "d68b14e40c8e610819eeab4bf4ab58b8a3882a6542c39421fefe38d2f8526530",
         "size": 23667121
       }
@@ -1560,7 +1560,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1711238400,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.12-pre_alpha+e/cosmic-reach-client-0.1.12-pre_alpha+e.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.12-pre_alpha%2Be/cosmic-reach-client-0.1.12-pre_alpha%2Be.jar",
         "sha256": "c14502f10412d09aa02eb24c2b522062972bd40a0e1d244b48fadef4a4406f36",
         "size": 23665512
       }
@@ -1571,7 +1571,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1711152000,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.12-pre_alpha+d/cosmic-reach-client-0.1.12-pre_alpha+d.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.12-pre_alpha%2Bd/cosmic-reach-client-0.1.12-pre_alpha%2Bd.jar",
         "sha256": "cc63e95b18838be573b9de912c5c945ec53dd6e68bddf3b583c2a3c62eb04611",
         "size": 23665383
       }
@@ -1582,7 +1582,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1711152000,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.12-pre_alpha+c/cosmic-reach-client-0.1.12-pre_alpha+c.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.12-pre_alpha%2Bc/cosmic-reach-client-0.1.12-pre_alpha%2Bc.jar",
         "sha256": "001a2c7c16cec8f81f8f8b3b786dc2cb8917285f5b7eabe9d25a865ef6f67cca",
         "size": 23665191
       }
@@ -1593,7 +1593,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1711065600,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.12-pre_alpha+b/cosmic-reach-client-0.1.12-pre_alpha+b.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.12-pre_alpha%2Bb/cosmic-reach-client-0.1.12-pre_alpha%2Bb.jar",
         "sha256": "d572185d18dd06ac18c7c121ff5135ecbd19e40ceec8c9cc5b170be9b570e102",
         "size": 23666831
       }
@@ -1637,7 +1637,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1710892800,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.9-pre_alpha+b/cosmic-reach-client-0.1.9-pre_alpha+b.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.9-pre_alpha%2Bb/cosmic-reach-client-0.1.9-pre_alpha%2Bb.jar",
         "sha256": "194d5a0c0f7c9771c8484a9be17b99a097050f5352d5a0e38e3cc6279a5791ab",
         "size": 23684209
       }
@@ -1681,7 +1681,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1710460800,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.6-pre_alpha+b/cosmic-reach-client-0.1.6-pre_alpha+b.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.6-pre_alpha%2Bb/cosmic-reach-client-0.1.6-pre_alpha%2Bb.jar",
         "sha256": "b39a697954671958f2342c44a67672f704373e58121323f84f3c764fdc1bd74b",
         "size": 21423072
       }
@@ -1703,7 +1703,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1710547200,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.5-pre_alpha+d/cosmic-reach-client-0.1.5-pre_alpha+d.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.5-pre_alpha%2Bd/cosmic-reach-client-0.1.5-pre_alpha%2Bd.jar",
         "sha256": "13b5efd63a3ec92e2df82a24095a79986f6b1f67f724444003a3542422c8fe0e",
         "size": 21416700
       }
@@ -1714,7 +1714,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1710374400,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.5-pre_alpha+c/cosmic-reach-client-0.1.5-pre_alpha+c.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.5-pre_alpha%2Bc/cosmic-reach-client-0.1.5-pre_alpha%2Bc.jar",
         "sha256": "4747cc7c2c2f80bd8b2c517847abdb4fe5393e07b31a9f2edcaafad11da4bcdf",
         "size": 21416728
       }
@@ -1725,7 +1725,7 @@
       "phase": "pre_alpha",
       "releaseTime": 1710374400,
       "client": {
-        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.5-pre_alpha+b/cosmic-reach-client-0.1.5-pre_alpha+b.jar",
+        "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.1.5-pre_alpha%2Bb/cosmic-reach-client-0.1.5-pre_alpha%2Bb.jar",
         "sha256": "636b3530e45d645a85f1936d47a732cf6fb1da9719e9fd5b811df141a1aea633",
         "size": 21417008
       }
