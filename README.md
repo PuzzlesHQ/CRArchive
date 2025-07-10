@@ -1,6 +1,6 @@
 # CRArchive
 
-![Latest version](https://cr-archive-bot.onrender.com/status.svg)
+![Latest version](https://cr-archive-bot-java.onrender.com/status.svg)
 
 ## Permission
 we have permission to upload the jar of the game
