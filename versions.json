@@ -10,12 +10,12 @@
             "phase": "alpha",
             "releaseTime": 1759777671,
             "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.5-alpha//cosmic-reach-client-0.5.5-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.5-alpha/cosmic-reach-client-0.5.5-alpha.jar",
                 "sha256": "cd3435c510703dc8d6eaef8996bf766afa4d3d86a3ee79e7d29d50c6cf6888fc",
                 "size": 55368530
             },
             "server": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.5-alpha//cosmic-reach-server-0.5.5-alpha.jar",
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.5-alpha/cosmic-reach-server-0.5.5-alpha.jar",
                 "sha256": "995c071295db52a8f4a3a74b16ee539fbea882dafe67d7fd3724903eb4c5507f",
                 "size": 14883798
             }
