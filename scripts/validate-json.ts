@@ -1,11 +1,13 @@
-import jsonData from "./../versions.json";
+async function main() {
+    const file = Bun.file("./../versions.json");
+    const text = await file.text();
 
-function main() {
-  try {
-    JSON.parse(jsonData);
-  } catch (err) {
-    console.error("The JSON is invalid!", err);
-  }
+    try {
+        JSON.parse(text);
+    } catch (error) {
+        console.error("Invalid JSON file:");
+        console.error(error);
+    }
 }
 
-main();
+await main();
