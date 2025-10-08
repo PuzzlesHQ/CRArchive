@@ -1,5 +1,5 @@
 async function main() {
-    const file = Bun.file("./../versions.json");
+    const file = Bun.file("versions.json");
     const text = await file.text();
 
     try {
