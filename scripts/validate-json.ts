@@ -1,4 +1,4 @@
-import jsonData from "./versions.json";
+import jsonData from "./../versions.json";
 
 function main() {
   try {
