@@ -1,0 +1,19 @@
+name: Validate JSON
+
+on:
+    push:
+    workflow_dispatch:
+
+jobs:
+    validate-versions-json:
+        runs-on: ubuntu-latest
+        
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+
+            - name: Install bun
+              uses: oven-sh/setup-bun@v2
+
+            - name: Run script
+              run: bun run scripts/validate-json.ts
