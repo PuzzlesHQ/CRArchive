@@ -45,6 +45,11 @@
                 "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.3-alpha/cosmic-reach-client-0.5.3-alpha.jar",
                 "sha256": "aed1df56c9abbcf6158349dd77c39a612eb3e2fe9a3b75c1c02a36a2892d85a7",
                 "size": 55365686
+            },
+            "server": {
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.3-alpha/cosmic-reach-server-0.5.3-alpha.jar",
+                "sha256": "f896c4ddbd29a524f04c1548d22bcdaff5469cc5d82b7447118ee7ded8790547",
+                "size": 14883545
             }
         },
         {
