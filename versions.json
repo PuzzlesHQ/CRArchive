@@ -21,6 +21,17 @@
             }
         },
         {
+            "id": "0.5.6-alpha",
+            "type": "release",
+            "phase": "alpha",
+            "releaseTime": 1760733902,
+            "client": {
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.6-alpha/cosmic-reach-client-0.5.6-alpha.jar",
+                "sha256": "c7b526a38c73a32f2eb66fc217274f2c166b06f69ff01a153e79433abad336b5",
+                "size": 55383261
+            }
+        },
+        {
             "id": "0.5.5-alpha",
             "type": "release",
             "phase": "alpha",
