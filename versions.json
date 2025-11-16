@@ -1,9 +1,25 @@
 {
     "latest": {
-        "alpha": "0.5.8-alpha",
+        "alpha": "0.5.9-alpha",
         "pre_alpha": "0.3.27-pre_alpha"
     },
     "versions": [
+        {
+            "id": "0.5.9-alpha",
+            "type": "release",
+            "phase": "alpha",
+            "releaseTime": 1763310817,
+            "client": {
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.9-alpha/cosmic-reach-client-0.5.9-alpha.jar",
+                "sha256": "2aa9718013f4e72bca2a893d16c810079ab1400c310b76a03eb55f8dac47c5c5",
+                "size": 55512421
+            },
+            "server": {
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.9-alpha/cosmic-reach-server-0.5.9-alpha.jar",
+                "sha256": "9571c5d7a90288e45bce3a82a1b2c953e6223b171e2ee409f31a642e48450336",
+                "size": 15000982
+            }
+        },
         {
             "id": "0.5.8-alpha",
             "type": "release",
