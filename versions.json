@@ -5,28 +5,6 @@
     },
     "versions": [
         {
-            "id": "0.5.7-alpha+b",
-            "type": "snapshot",
-            "phase": "alpha",
-            "releaseTime": 1762032960,
-            "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.7-alpha+b/cosmic-reach-client-0.5.7-alpha+b.jar",
-                "sha256": "7db4d929be0265a2bf53df70395608338ae1b5a674e6e6036e9dfbe7feb92de4",
-                "size": 55431440
-            }
-        },
-        {
-            "id": "0.4.10-alpha+b",
-            "type": "snapshot",
-            "phase": "alpha",
-            "releaseTime": 1748694960,
-            "client": {
-                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.10-alpha+b/cosmic-reach-client-0.4.10-alpha+b.jar",
-                "sha256": "212413ce66fde30e130452e8a741fb16a59d7ff2a71f3a48df987c30309eb430",
-                "size": 54736168
-            }
-        },
-        {
             "id": "0.5.20-alpha",
             "type": "release",
             "phase": "alpha",
@@ -232,6 +210,17 @@
                 "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.8-alpha/cosmic-reach-server-0.5.8-alpha.jar",
                 "sha256": "c296bdce2550fa12d73c25534493eeb3b1b097839c0bf8097149bc632083da4b",
                 "size": 14944592
+            }
+        },
+        {
+            "id": "0.5.7-alpha+b",
+            "type": "snapshot",
+            "phase": "alpha",
+            "releaseTime": 1762032960,
+            "client": {
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.5.7-alpha+b/cosmic-reach-client-0.5.7-alpha+b.jar",
+                "sha256": "7db4d929be0265a2bf53df70395608338ae1b5a674e6e6036e9dfbe7feb92de4",
+                "size": 55431440
             }
         },
         {
@@ -472,6 +461,17 @@
                 "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.11-alpha/cosmic-reach-server-0.4.11-alpha.jar",
                 "sha256": "27428b302e980c6a1c232cc0c8b544b9ab5d6e85628e6547ef5d64d42173ad75",
                 "size": 14359584
+            }
+        },
+        {
+            "id": "0.4.10-alpha+b",
+            "type": "snapshot",
+            "phase": "alpha",
+            "releaseTime": 1748694960,
+            "client": {
+                "url": "https://github.com/PuzzlesHQ/CRArchive/releases/download/0.4.10-alpha+b/cosmic-reach-client-0.4.10-alpha+b.jar",
+                "sha256": "212413ce66fde30e130452e8a741fb16a59d7ff2a71f3a48df987c30309eb430",
+                "size": 54736168
             }
         },
         {
