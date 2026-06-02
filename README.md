@@ -2,6 +2,8 @@
 
 ![Latest version](https://cr-archive-bot-java.onrender.com/status.svg)
 
+Not all releases are in chronological order.
+
 ## Permission
 we have permission to upload the jar of the game
 
