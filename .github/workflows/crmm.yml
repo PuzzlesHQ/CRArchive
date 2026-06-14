@@ -2,8 +2,6 @@ name: Trigger Game Version Update
 
 on:
   workflow_dispatch:
-  release:
-    types: [published]
   push:
     branches: [ main ]
 
